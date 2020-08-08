@@ -1,0 +1,926 @@
+#: gcshop/gcshop_c.lua:85
+msgid "GreenCoin"
+msgid_plural "GreenCoins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: gcshop/gcshop_c.lua:93
+msgid ""
+"You successfully logged in!\n"
+"\n"
+"Your account is linked to your pc and you will automatically log in."
+msgstr ""
+
+#: gcshop/gcshop_c.lua:94
+msgid "Log out"
+msgstr ""
+
+#: gcshop/gcshop_c.lua:105 gcshop/gcshop_c.lua:116 gcshop/gcshop_gui.lua:146
+msgid "Login"
+msgstr ""
+
+#: gcshop/gcshop_c.lua:108
+msgid ""
+"Wrong username, e-mail or password! Go to www.mrgreengaming.com/forums/"
+"lostpassword/ to retrieve your password."
+msgstr ""
+
+#: gcshop/gcshop_c.lua:119
+msgid "Not logged in!"
+msgstr ""
+
+#: gcshop/gcshop_c.lua:159
+msgid "Press F6 to buy items in the GreenCoins shop."
+msgstr ""
+
+#: gcshop/gcshop_c.lua:194
+msgid "Need more GreenCoins?"
+msgstr ""
+
+#: gcshop/gcshop_c.lua:197
+msgid "Then visit: https://mrgreengaming.com/greencoins/donate"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:100
+msgid "GreenCoins Shop (F6 to close)"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:101
+msgid "Home"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:103
+msgid ""
+"Hello and welcome to the Grand Guide to GreenCoins!\r\n"
+"\r\n"
+"WTF are Green-Coins?\r\n"
+"--------------------\r\n"
+"They are a currency used by the Mr. Green community. We created a global "
+"database where players can connect their Green-Coins to one account, and use "
+"them on different game servers.\r\n"
+"\r\n"
+"What can I do with Green-Coins in MTA?\r\n"
+"-------------------------------\r\n"
+"You can buy car mods, skins, or other fancy stuff that you can use ingame!"
+"\r\n"
+"\r\n"
+"What do I need to get Green-Coins?\r\n"
+"----------------------------------\r\n"
+"You need to register a Green-Coins account, go to the \"Register\" tab for "
+"more info.\r\n"
+"How do I get Green-Coins?\r\n"
+"------------------------------------------\r\n"
+"\r\n"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:120
+msgid "Donate"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:122
+msgid ""
+"You can donate. For each euro donated you get 1000 GreenCoins.\r\n"
+"\r\n"
+"How do I donate?\r\n"
+"-----------------------\r\n"
+"Go to mrgreengaming.com and click \"Green-Coins\".\r\n"
+"\r\n"
+"If you log into your account, you see a conveniently placed button that says "
+"\"Send donation\".\r\n"
+"\r\n"
+"Just follow the simple instructions on there and you're done!\r\n"
+"\r\n"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:133
+msgid "Win"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:135
+msgid ""
+"The second way to get GreenCoins is racing.\r\n"
+"\r\n"
+"Winning races: you earn GC based on the map length.\r\n"
+"New toptime: If you're good and manage to get a new top1, top2 or top3 you "
+"will earn extra GC!\r\n"
+"Even if you didnt win or finish you earn Green-Coins based on your results, "
+"so don't give up!\r\n"
+"\r\n"
+"\r\n"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:143
+msgid ""
+"More info in the Network section or use this link: http://forums."
+"mrgreengaming.com/topic/2183-the-grand-guide-to-green-coins/"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:144
+msgid "Register / Login"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:145
+msgid ""
+"1. Register an account on our Forums ( https://mrgreengaming.com/forums )\n"
+"\n"
+"\n"
+"2. Log in using your Forums account:"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:147
+msgid "Username or email:"
+msgstr ""
+
+#: gcshop/gcshop_gui.lua:148
+msgid "Password:"
+msgstr ""
+
+#: gcshop/items/items_s.lua:103 gcshop/items/items_gui.lua:234
+msgid "Bike trials"
+msgstr ""
+
+#: gcshop/items/items_s.lua:104 gcshop/items/items_gui.lua:239
+msgid "Faster respawn for 60 days"
+msgstr ""
+
+#: gcshop/items/items_s.lua:105 gcshop/items/items_gui.lua:241
+msgid "HP Regen for 30 days"
+msgstr ""
+
+#: gcshop/items/items_s.lua:106 gcshop/items/items_gui.lua:243
+msgid "Custom paintjob"
+msgstr ""
+
+#: gcshop/items/items_s.lua:107 gcshop/items/items_gui.lua:246
+msgid "Voice"
+msgstr ""
+
+#: gcshop/items/items_s.lua:108 gcshop/items/items_gui.lua:251
+#: gcshop/items/items_gui.lua:253 gcshop/items/items_gui.lua:256
+msgid "Longer burnup time"
+msgstr ""
+
+#: gcshop/items/items_s.lua:109 gcshop/items/items_gui.lua:262
+msgid "Extra long burnup time"
+msgstr ""
+
+#: gcshop/items/items_s.lua:110 gcshop/items/items_gui.lua:255
+msgid "Health transfer"
+msgstr ""
+
+#: gcshop/items/items_s.lua:111 gcshop/items/items_gui.lua:258
+msgid "Double sided objects"
+msgstr ""
+
+#: gcshop/items/items_s.lua:112
+msgid "Colored Projectiles for 30 days"
+msgstr ""
+
+#: gcshop/items/items_s.lua:113
+msgid "NTS/DD Vehicle reroll for 30 days"
+msgstr ""
+
+#: gcshop/items/items_s.lua:114
+msgid "Deadline color change"
+msgstr ""
+
+#: gcshop/items/items_c.lua:27 gcshop/items/items_c.lua:38
+#: gcshop/items/items_c.lua:70
+msgid "Price:"
+msgstr ""
+
+#: gcshop/items/items_c.lua:41
+msgid "Requires perk"
+msgstr ""
+
+#: gcshop/items/items_c.lua:50
+#, lua-format
+msgid ""
+"Price: \n"
+"%s GC\n"
+msgstr ""
+
+#: gcshop/items/items_c.lua:50
+#, lua-format
+msgid "Expires %s"
+msgstr ""
+
+#: gcshop/items/items_c.lua:68
+msgid "Extra Price:"
+msgstr ""
+
+#: gcshop/items/items_c.lua:68
+msgid "Current amount:"
+msgstr ""
+
+#: gcshop/items/items_c.lua:70
+msgid "Bought!"
+msgstr ""
+
+#: gcshop/items/items_c.lua:206
+msgid "DeadLine color is now: "
+msgstr ""
+
+#: gcshop/items/items_c.lua:207
+msgid "Colored DeadLine will only appear when you have bought the perk."
+msgstr ""
+
+#: gcshop/items/items_c.lua:244
+msgid "Rocket color is now: "
+msgstr ""
+
+#: gcshop/items/items_c.lua:245
+msgid "Colored rockets will only appear when you have bought the perk."
+msgstr ""
+
+#: gcshop/items/items_gui.lua:235
+msgid ""
+"This perk allows you to do stunts on your bike while airborn. You can do "
+"tricks by pressing 1-5 and do 360 turns in the air."
+msgstr ""
+
+#: gcshop/items/items_gui.lua:236 gcshop/items/items_gui.lua:237
+#: gcshop/items/items_gui.lua:240 gcshop/items/items_gui.lua:244
+#: gcshop/items/items_gui.lua:247 gcshop/items/items_gui.lua:249
+#: gcshop/items/items_gui.lua:252 gcshop/items/items_gui.lua:254
+#: gcshop/items/items_gui.lua:260 gcshop/items/items_gui.lua:265
+#: gcshop/items/items_gui.lua:268 gcshop/items/items_gui.lua:271
+#, lua-format
+msgid ""
+"Price:\n"
+"%s GC"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:238
+#, lua-format
+msgid ""
+"Respawn time will be limited to 1 second. \n"
+"If you hit a checkpoint, it will be chosen as the respawn point much faster "
+"now (normally 5 seconds) but you will keep your health.\n"
+"\n"
+"Expires after %s days"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:242
+msgid ""
+"Regenerate your health. When damaged, this perk will automatically "
+"regenerate your health untill you're back at 100% again.\n"
+"\n"
+"Expires after %s days"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:245
+msgid ""
+"Upload your own custom paintjob images for vehicles with paintjobs! You will "
+"be able to do this in the modshop tab. One custom paintjob can be set for "
+"all vehicles at the same time. You can buy this multiple times so you can "
+"add multiple paintjobs to use."
+msgstr ""
+
+#: gcshop/items/items_gui.lua:248
+msgid ""
+"Put that mic to good use, this grants you the right to speak freely on the "
+"server."
+msgstr ""
+
+#: gcshop/items/items_gui.lua:250
+msgid "This perk will extend the burnup time of your vehicle with 50%."
+msgstr ""
+
+#: gcshop/items/items_gui.lua:253
+msgid ""
+"This perk will extend the burnup time of your vehicle to a total of 100%.\n"
+"\n"
+"Requires perk '%s'\n"
+"Expires after %s days"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:256
+#, lua-format
+msgid ""
+"The classic fire transfer script. If you're on fire, hit someone and you "
+"will steal his health.\n"
+"\n"
+"Requires perk '%s'\n"
+"Expires after %s days"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:257
+msgid ""
+"Price:\n"
+"Disabled"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:259
+msgid "Makes all objects in a map doublesided (setElementDoubleSided)"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:261
+msgid "Colored Rockets for % days"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:263
+msgid "Make all your projectiles (rockets) appear in color."
+msgstr ""
+
+#: gcshop/items/items_gui.lua:264
+msgid "Set Color"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:266
+msgid "NTS/DD vehicle reroll for 30 days"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:267
+#, lua-format
+msgid ""
+"Having a bad vehicle in NTS/DD, with this perk you can change it once per "
+"map. \n"
+"Press '%s' or $s to activate."
+msgstr ""
+
+#: gcshop/items/items_gui.lua:269
+msgid "DeadLine color change for 30 days"
+msgstr ""
+
+#: gcshop/items/items_gui.lua:270
+msgid "Change your DeadLine color."
+msgstr ""
+
+#: gcshop/items/paintjob/paintjob_c.lua:476
+#, lua-format
+msgid "Please use a different file extension. Only %s files are allowed"
+msgstr ""
+
+#: gcshop/items/paintjob/paintjob_c.lua:484
+#, lua-format
+msgid "Custom paintjob image %s not found!"
+msgstr ""
+
+#: gcshop/items/paintjob/paintjob_c.lua:492
+#, lua-format
+msgid "Custom paintjob image %s is not a valid image"
+msgstr ""
+
+#: gcshop/modshop/modshop_s.lua:228
+#, lua-format
+msgid "This upgrade is not added: %s + %s"
+msgstr ""
+
+#: gcshop/modshop/modshop_c.lua:17
+msgid "You should register and log in to buy vehicles and upgrade them"
+msgstr ""
+
+#: gcshop/modshop/modshop_c.lua:47
+#, lua-format
+msgid ""
+"Current price for one vehicle: %s GC\n"
+"\n"
+"All upgrades are free for bought vehicles"
+msgstr ""
+
+#: gcshop/modshop/modshop_c.lua:455
+msgid "Choose a custom paintjob from the list!"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:314
+msgid "Buy vehicles"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:315
+msgid "Vehicle"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:316
+msgid "ID"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:317
+msgid "Buy vehicle"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:318
+msgid ""
+"Current price for one vehicle: $s GC\n"
+"\n"
+"All upgrades are free for bought vehicles"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:319
+msgid "Upgrade this vehicle"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:320
+msgid "View current vehicle"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:321
+msgid "Colors + Paintjobs"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:322 gcshop/modshop/modshop_GUI.lua:323
+msgid "Paint $s:"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:324
+msgid "Wheels:"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:325
+msgid "Lights:"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:326
+msgid "You can change a vehicle's colors and its headlight color."
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:327
+msgid "Save colors"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:328
+msgid ""
+"Below you can upload custom paint job.\n"
+"Custom paintjobs work on most vehicles without paintjobs, but are randomly "
+"aligned, be warned!"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:329
+msgid "File path or direct link (URL):"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:330
+msgid "Don't forget to Apply and Save Paintjob"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:331
+msgid "Paintjob"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:332
+msgid "Apply and Save Paintjob"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:333
+msgid "Apply and Save Paintjob for ALL vehicles"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:334 gcshop/modshop/modshop_GUI.lua:335
+#: gcshop/modshop/modshop_GUI.lua:336 gcshop/modshop/modshop_GUI.lua:337
+msgid "Change"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:338
+msgid "Save colors for ALL vehicles"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:339
+msgid "Upload Paintjob"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:340
+msgid "file.bmp or http://i.imgur.com/bLaBlA.jpg"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:341
+msgid ""
+"You can use a TinyPic.com, Imgur.com, Postimg.org direct link or copy custom "
+"paintjob images into this folder: \\MTA San Andreas\\mods\\deathmatch"
+"\\resources\\gcshop\\"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:342
+msgid "Rims + Upgrades"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:343
+msgid "Add upgrade"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:344
+msgid "Upgrade Name"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:345
+msgid "Upgrade ID"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:346
+msgid "Remove upgrade"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:347
+msgid "Add upgrade for all"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:348
+msgid "Remove upgrade for all"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:349
+msgid "Neon lights"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:350
+msgid "Green"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:351
+msgid "Orange"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:352
+msgid "Red"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:353
+msgid "Yellow"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:354
+msgctxt "color"
+msgid "Aqua"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:355
+msgid "Remove neon"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:356
+msgid ""
+"Click on the buttons with the corresponding colors you want for the neon "
+"lights. Click on the remove button to remove the neon lights.\n"
+"\n"
+"If the buttons are not clickable, it means you can not add neon to this "
+"vehicle."
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:357
+msgid "Custom horns"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:358
+msgid "Enable extra mods!"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:359
+msgid ""
+"Enable the extra mods for some new features in the modshop.\n"
+"\n"
+"- Custom horns\n"
+"- Neon lights\n"
+"\n"
+"\n"
+"Price: $s"
+msgstr ""
+
+#: gcshop/modshop/modshop_GUI.lua:360
+msgid "Currently modding: $s"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:42
+msgid "In this tab you can manage your locked nicknames."
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:43
+#, lua-format
+msgid ""
+"To lock your current nickname you have to click on \"%s\". \n"
+"To remove a locked nick, select the nick in the gridlist, then click on \"%s"
+"\". \n"
+"If you are in need of some extra locked nicknames, you can buy extra slots. "
+"Click on \"%s\" to do so. \n"
+"Trolling and deliberate nickstealing can get you banned."
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:43
+#: gcshop/lockednicks/lockednicks_c.lua:45
+msgid "Lock current nickname"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:43
+msgid "Remove selected nick"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:43
+msgid "Buy extra lock nick slot"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:44
+msgid "My Locked Nicknames"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:46
+msgid "Remove selected nickname"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:47
+#, lua-format
+msgid "Current price: %s GC per extra slot (max: %s slots)"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:48
+msgid "Buy extra locknick slot"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:49
+#: gcshop/lockednicks/lockednicks_c.lua:58
+#, lua-format
+msgid "%s/%s nickname slots in use"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:95
+msgid ""
+"Maximum locked nicknames reached. Please buy more slots if you wish to lock "
+"more nicknames."
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:102
+msgid "Please select a name before removing it"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:108
+msgid "Please do not spam click buttons"
+msgstr ""
+
+#: gcshop/lockednicks/lockednicks_c.lua:113
+#, lua-format
+msgid "Maximum amount of nickname slots reached (%s)"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:55
+msgid "Selling failed! You are either not logged in or don't have that skin!"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:85
+msgid "Please select the skin you want to sell!"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:183
+msgid "Buy skins"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:184
+#, lua-format
+msgid "Buy price: %s GCs | Sell price: %s GCs"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:185
+msgid "You can own multiple skins, but only use one."
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:186
+msgid "Not enough GreenCoins or you already own this skin"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:187
+msgid "Please input a number"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:188
+msgid "Or not logged in"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:189
+msgid "Skin bought/sold successfully!"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:190
+msgid "Preview skin"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:191
+msgid "Buy skin"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:192
+msgid "Sell skin"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:193
+msgid "Set primary skin"
+msgstr ""
+
+#: gcshop/skin/skins_client.lua:194
+msgid "Disable skins feature"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:69
+msgid "Maps-Center"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:70
+msgid "All Maps"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:71
+msgid "Queued Maps"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:72 gcshop/maps/maps_client.lua:80
+msgid "Map Name"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:73
+msgid "Author"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:74
+msgid "Price"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:75
+msgid "Resource Name"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:76
+msgid "Gamemode"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:77
+msgid "Buy selected map"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:78
+msgid "Refresh list"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:79
+msgid "Priority"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:81
+msgid "This is the Maps-Center. Here you can buy maps."
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:82
+msgid "Select a map you like and click \"Buy selected map\""
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:83
+msgid ""
+"The map will be added to the Server Queue, where all bought maps are stored "
+"until they're played"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:84
+#, lua-format
+msgid ""
+"The winner of the last map played\n"
+"gets %s %% off!"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:85 gcshop/maps/maps_client.lua:286
+msgid "Purchase VIP to get a free map every day!"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:256
+#, lua-format
+msgid ""
+"Every map is %s%% off\n"
+"because you have won the last map!"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:259
+#, lua-format
+msgid ""
+"The winner of the last map played\n"
+"gets %s%% off!"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:272
+msgid "Your next map will be free! (VIP)"
+msgstr ""
+
+#: gcshop/maps/maps_client.lua:276
+msgid ""
+"You have used your free VIP map. \n"
+"You will get another one tomorrow! (00:00 CET)"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:572
+msgid "Custom Horns"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:573
+msgid "Buy Horns"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:574
+msgid "Available Horns"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:575
+msgid "My Horns"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:576
+msgctxt "Keyboard"
+msgid "Key"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:577
+msgid ""
+"Select a horn out of the list and press \"Buy\" to buy for regular usage or "
+"double-click to listen it."
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:578
+msgid "Double-click to listen to a horn:"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:579
+#, lua-format
+msgid ""
+"Horns can only be used 3 times per map (%s seconds cool-off). However, you "
+"can buy unlimited usage of the custom horn for %s GC. This item applies to "
+"all horns."
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:580
+msgid "Double-click to bind horn to a key:"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:581
+msgid "(for gamepads)"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:582
+#, lua-format
+msgid ""
+"Buy selected horn\n"
+"Price: %s GC"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:583
+msgid ""
+"Unbind\n"
+"all horns"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:584
+msgid ""
+"Bind to a horn control name\n"
+"(Esc -> Settings -> Binds)"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:585
+msgid "Sell horn"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:586 gcshop/horns/horns_c.lua:844
+#, lua-format
+msgid ""
+"Buy unlimited usage\n"
+"Price: %s GC"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:587
+msgid "Horn Perks"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:597 gcshop/horns/horns_c.lua:634
+#: gcshop/horns/horns_c.lua:675 gcshop/horns/horns_c.lua:699
+msgid "Select a horn first"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:608
+msgid "You can sell a horn once every 5 seconds!"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:703
+msgid "Binding a key to horn"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:704
+msgid "Press a key to bind or escape to clear"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:808
+msgid "Horn successfully bought"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:809
+msgid "getHornsData"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:811
+msgid ""
+"Either not logged in, not enough GreenCoins, or you already have this horn."
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:819
+msgid "Horn successfully sold"
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:822
+msgid "Either not logged in or you don't have this horn."
+msgstr ""
+
+#: gcshop/horns/horns_c.lua:832 gcshop/horns/horns_c.lua:1053
+#, lua-format
+msgid ""
+"Buy unlimited usage\n"
+"Price: %s GC\n"
+"Bought!"
+msgstr ""
