@@ -208,11 +208,11 @@ msgstr ""
 #: resources/[gameplay]/gcshop/items/items_c.lua:50
 msgid ""
 "Price: \n"
-"%(price) GC\n"
+"${price} GC\n"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:50
-msgid "Expires %(expiry)"
+msgid "Expires ${expiry}"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:68
@@ -263,7 +263,7 @@ msgstr ""
 #: resources/[gameplay]/gcshop/items/items_gui.lua:271
 msgid ""
 "Price:\n"
-"%(price) GC"
+"${price} GC"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:238
@@ -272,7 +272,7 @@ msgid ""
 "If you hit a checkpoint, it will be chosen as the respawn point much faster "
 "now (normally 5 seconds) but you will keep your health.\n"
 "\n"
-"Expires after %(expiry) days"
+"Expires after ${expiry} days"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:242
@@ -280,7 +280,7 @@ msgid ""
 "Regenerate your health. When damaged, this perk will automatically "
 "regenerate your health untill you're back at 100% again.\n"
 "\n"
-"Expires after %(expiry) days"
+"Expires after ${expiry} days"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:245
@@ -305,8 +305,8 @@ msgstr ""
 msgid ""
 "This perk will extend the burnup time of your vehicle to a total of 100%.\n"
 "\n"
-"Requires perk '%(perk)'\n"
-"Expires after %(expiry) days"
+"Requires perk '${perk}'\n"
+"Expires after ${expiry} days"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:256
@@ -314,8 +314,8 @@ msgid ""
 "The classic fire transfer script. If you're on fire, hit someone and you "
 "will steal his health.\n"
 "\n"
-"Requires perk '%(perk)'\n"
-"Expires after %(expiry) days"
+"Requires perk '${perk}'\n"
+"Expires after ${expiry} days"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:257
@@ -329,7 +329,7 @@ msgid "Makes all objects in a map doublesided (setElementDoubleSided)"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:261
-msgid "Colored Rockets for %(price) days"
+msgid "Colored Rockets for ${price} days"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:263
@@ -348,7 +348,7 @@ msgstr ""
 msgid ""
 "Having a bad vehicle in NTS/DD, with this perk you can change it once per "
 "map. \n"
-"Press '%(key)' or %(command) to activate."
+"Press '${key}' or ${command} to activate."
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:269
@@ -361,19 +361,19 @@ msgstr ""
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:476
 msgid ""
-"Please use a different file extension. Only %(extensions) files are allowed"
+"Please use a different file extension. Only ${extensions} files are allowed"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:484
-msgid "Custom paintjob image %(file) not found!"
+msgid "Custom paintjob image ${file} not found!"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:492
-msgid "Custom paintjob image %(file) is not a valid image"
+msgid "Custom paintjob image ${file} is not a valid image"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:228
-msgid "This upgrade is not added: %(model) + %(upgrade)"
+msgid "This upgrade is not added: ${model} + ${upgrade}"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/modshop/modshop_c.lua:17
@@ -383,7 +383,7 @@ msgstr ""
 #: resources/[gameplay]/gcshop/modshop/modshop_c.lua:47
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:320
 msgid ""
-"Current price for one vehicle: %(price) GC\n"
+"Current price for one vehicle: ${price} GC\n"
 "\n"
 "All upgrades are free for owned vehicles"
 msgstr ""
@@ -422,8 +422,7 @@ msgstr ""
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:324
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:325
-#, lua-format
-msgid "Paint %s:"
+msgid "Paint ${num}:"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:326
@@ -570,7 +569,6 @@ msgid "Enable extra mods!"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:365
-#, lua-format
 msgid ""
 "Enable the extra mods for some new features in the modshop.\n"
 "\n"
@@ -578,12 +576,11 @@ msgid ""
 "- Neon lights\n"
 "\n"
 "\n"
-"Price: %s"
+"Price: ${price}"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:366
-#, lua-format
-msgid "Currently modding: %s"
+msgid "Currently modding: ${vehicle}"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:42
@@ -592,11 +589,11 @@ msgstr ""
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
 msgid ""
-"To lock your current nickname you have to click on \"%(btn1)\". \n"
+"To lock your current nickname you have to click on \"${btn1}\". \n"
 "To remove a locked nick, select the nick in the gridlist, then click on "
-"\"%(btn2)\". \n"
+"\"${btn2}\". \n"
 "If you are in need of some extra locked nicknames, you can buy extra slots. "
-"Click on \"%(btn3)\" to do so. \n"
+"Click on \"${btn3}\" to do so. \n"
 "Trolling and deliberate nickstealing can get you banned."
 msgstr ""
 
@@ -622,7 +619,7 @@ msgid "Remove selected nickname"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:47
-msgid "Current price: %(price) GC per extra slot (max: %(slots) slots)"
+msgid "Current price: ${price} GC per extra slot (max: ${slots} slots)"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:48
@@ -631,7 +628,7 @@ msgstr ""
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:49
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:58
-msgid "%(used)/%(max) nickname slots in use"
+msgid "${used}/${max} nickname slots in use"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:95
@@ -649,7 +646,7 @@ msgid "Please do not spam click buttons"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:113
-msgid "Maximum amount of nickname slots reached (%(max))"
+msgid "Maximum amount of nickname slots reached (${max})"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:125
@@ -672,14 +669,13 @@ msgstr ""
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:128
 msgid ""
 "Create team\n"
-"%(price) GC / %(amount) days"
+"${price} GC / ${amount} days"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:129
-#, lua-format
 msgid ""
 "Save changes\n"
-"%s GC"
+"${price} GC"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:130
@@ -746,19 +742,19 @@ msgstr ""
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:201
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:209
-msgid " (Owner) (%(age)/%(remain) days left"
+msgid " (Owner) (${age}/${remain} days left"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:214
 msgid ""
 "Renew team\n"
-"%(price) GC / %(amount) days"
+"${price} GC / ${amount} days"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:236
 msgid ""
 "Buy team\n"
-"%(price) GC / %(amount) days"
+"${price} GC / ${amount} days"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:250
@@ -796,7 +792,7 @@ msgid "Buy skins"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:184
-msgid "Buy price: %(buyprice) GC | Sell price: %(sellprice) GC"
+msgid "Buy price: ${buyprice} GC | Sell price: ${sellprice} GC"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:185
@@ -901,7 +897,7 @@ msgstr ""
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:88
 msgid ""
 "The winner of the last map played\n"
-"gets %(discount) % off!"
+"gets ${discount} % off!"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:89
@@ -911,14 +907,14 @@ msgstr ""
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:260
 msgid ""
-"Every map is %(discount)% off\n"
+"Every map is ${discount}% off\n"
 "because you have won the last map!"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:263
 msgid ""
 "The winner of the last map played\n"
-"gets %(discount)% off!"
+"gets ${discount}% off!"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:276
@@ -964,8 +960,8 @@ msgstr ""
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:579
 msgid ""
-"Horns can only be used 3 times per map (%(cooldown) seconds cool-off). "
-"However, you can buy unlimited usage of the custom horn for %(price) GC. "
+"Horns can only be used 3 times per map (${cooldown} seconds cool-off). "
+"However, you can buy unlimited usage of the custom horn for ${price} GC. "
 "This item applies to all horns."
 msgstr ""
 
@@ -980,7 +976,7 @@ msgstr ""
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:582
 msgid ""
 "Buy selected horn\n"
-"Price: %(price) GC"
+"Price: ${price} GC"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:583
@@ -1003,7 +999,7 @@ msgstr ""
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:844
 msgid ""
 "Buy unlimited usage\n"
-"Price: %(price) GC"
+"Price: ${price} GC"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:587
@@ -1054,6 +1050,6 @@ msgstr ""
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:1053
 msgid ""
 "Buy unlimited usage\n"
-"Price: %(price) GC\n"
+"Price: ${price} GC\n"
 "Bought!"
 msgstr ""
