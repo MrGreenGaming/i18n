@@ -796,57 +796,67 @@ msgstr ""
 msgid "Please select the skin you want to sell!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:182
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:95
+msgid "You can only sell skins once every ${cooldown} seconds!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:181
 msgctxt "Character model"
 msgid "Skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:183
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:182
 msgid "Buy skins"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:184
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:183
 msgid "Buy price: ${buyprice} GC | Sell price: ${sellprice} GC"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:185
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:184
 msgid "You can own multiple skins, but only use one."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:186
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:185
 msgid "Not enough GreenCoins or you already own this skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:187
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:186
 msgid "Please input a number"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:188
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:187
 msgid "Or not logged in"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:189
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:188
 msgid "Skin bought/sold successfully!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:190
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:189
 msgid "Preview skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:191
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:190
 msgid "Buy skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:192
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:191
 msgid "Sell skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:193
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:192
 msgid "Set primary skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:194
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:193
 msgid "Disable skins feature"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:202
+#: resources/[gameplay]/gcshop/skin/skins_client.lua:219
+#, lua-format
+msgid "Your ID purchases so far: %s"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:69
