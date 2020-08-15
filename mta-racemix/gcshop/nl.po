@@ -3,20 +3,22 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-10 11:05+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-08-15 21:03+0000\n"
+"Last-Translator: TA <afusensidev@gmail.com>\n"
+"Language-Team: Dutch <https://www.translate.mrgreengaming.com/projects/"
+"mta-racemix/gcshop/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:85
 msgid "GreenCoin"
 msgid_plural "GreenCoins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "GreenCoin"
+msgstr[1] "GreenCoins"
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:93
 msgid ""
@@ -24,46 +26,51 @@ msgid ""
 "\n"
 "Your account is linked to your pc and you will automatically log in."
 msgstr ""
+"Je bent succesvol ingelogd!\n"
+"\n"
+"e account is gekoppeld aan je pc en je logt automatisch in."
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:94
 msgid "Log out"
-msgstr ""
+msgstr "Uitloggen"
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:105
 #: resources/[gameplay]/gcshop/gcshop_c.lua:116
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:146
 msgid "Login"
-msgstr ""
+msgstr "Inloggen"
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:108
 msgid ""
 "Wrong username, e-mail or password! Go to www.mrgreengaming.com/forums/"
 "lostpassword/ to retrieve your password."
 msgstr ""
+"Verkeerde gebruikersnaam, e-mail of wachtwoord! Ga naar www.mrgreengaming."
+"com/forums/lostpassword/ om jou wachtwoord op te halen."
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:119
 msgid "Not logged in!"
-msgstr ""
+msgstr "Niet ingelogd!"
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:159
 msgid "Press F6 to buy items in the GreenCoins shop."
-msgstr ""
+msgstr "Druk op F6 om items in de GreenCoins winkel te kopen."
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:194
 msgid "Need more GreenCoins?"
-msgstr ""
+msgstr "Meer GreenCoins nodig?"
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:197
 msgid "Then visit: https://mrgreengaming.com/greencoins/donate"
-msgstr ""
+msgstr "Bezoek dan: https://mrgreengaming.com/greencoins/donate"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:100
 msgid "GreenCoins Shop (F6 to close)"
-msgstr ""
+msgstr "GreenCoins Shop (F6 om te sluiten)"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:101
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:103
 msgid ""
@@ -87,10 +94,30 @@ msgid ""
 "------------------------------------------\n"
 "\n"
 msgstr ""
+"Hallo en welkom bij de Grote GreenCoins Gids!\n"
+"\n"
+"WTF zijn Green-Coins?\n"
+"--------------------\n"
+"Het is een valuta die wordt gebruikt in de Mr. Green gemeenschap. We hebben "
+"een globale database gemaakt waar spelers hun Green-Coins aan een account "
+"kunnen koppelen en deze op verschillende gameservers kunnen gebruiken.\n"
+"\n"
+"Wat kan ik doen met Green-Coins in MTA?\n"
+"-------------------------------\n"
+"Je kunt voertuig modificaties, skins en andere leuke dingen kopen die je "
+"ingame kunt gebruiken!\n"
+"\n"
+"Wat heb ik nodig om Green-Coins te verdienen?\n"
+"----------------------------------\n"
+"Je moet een Green-Coins acccount registreren. Klik op het tabblad "
+"\"Registreren\" voor meer informatie.\n"
+"Hoe verdien ik Green-Coins?\n"
+"------------------------------------------\n"
+"\n"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:120
 msgid "Donate"
-msgstr ""
+msgstr "Doneren"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:122
 msgid ""
@@ -106,10 +133,21 @@ msgid ""
 "Just follow the simple instructions on there and you're done!\n"
 "\n"
 msgstr ""
+"Je kunt doneren. Voor elke gedoneerde euro krijg je 1000 GreenCoins\n"
+"\n"
+"How kan je doneren?\n"
+"-----------------------\n"
+"Ga naar mrgreengaming.com en klik op \"Green-Coins\"\n"
+"\n"
+"Als je inlogt zie je een handig geplaatste knop met de tekst \"Send "
+"donation\".\n"
+"\n"
+"Volg de eenvoudige instructies en je bent klaar!\n"
+"\n"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:133
 msgid "Win"
-msgstr ""
+msgstr "Winnen"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:135
 msgid ""
@@ -123,16 +161,27 @@ msgid ""
 "\n"
 "\n"
 msgstr ""
+"De tweede manier om GreenCoins te verdienen is door te racen.\n"
+"\n"
+"Races winnen: je verdient GreenCoins op basis van de lengte van de map.\n"
+"Nieuwe toptijd: Als je goed bent en erin slaagt een nieuwe top 1, top 2 of "
+"top 3 te halen, verdien je extra GC!\n"
+"Zelfs als je niet hebt gewonnen of niet bent of de race niet hebt afgemaakt, "
+"verdien je GreenCoins op basis van je resultaten, dus geef niet op!\n"
+"\n"
+"\n"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:143
 msgid ""
 "More info in the Network section or use this link: http://forums."
 "mrgreengaming.com/topic/2183-the-grand-guide-to-green-coins/"
 msgstr ""
+"Meer informatie in de sectie Netwerk of gebruik deze link: http://forums."
+"mrgreengaming.com/topic/2183-the-grand-guide-to-green-coins/"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:144
 msgid "Register / Login"
-msgstr ""
+msgstr "Registreren / Inloggen"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:145
 msgid ""
@@ -141,127 +190,137 @@ msgid ""
 "\n"
 "2. Log in using your Forums account:"
 msgstr ""
+"1. Registreer een account op onze forum ( https://mrgreengaming.com/forums )"
+"\n"
+"\n"
+"\n"
+"2. Log in met jou forum account:"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:147
 msgid "Username or email:"
-msgstr ""
+msgstr "Gebruikersnaam of email:"
 
 #: resources/[gameplay]/gcshop/gcshop_gui.lua:148
 msgid "Password:"
-msgstr ""
+msgstr "Wachtwoord:"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:103
 #: resources/[gameplay]/gcshop/items/items_gui.lua:234
 msgid "Bike trials"
-msgstr ""
+msgstr "Motorfiets proeven"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:104
 #: resources/[gameplay]/gcshop/items/items_gui.lua:239
 msgid "Faster respawn for 60 days"
-msgstr ""
+msgstr "Snellere respawn voor 60 dagen"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:105
 #: resources/[gameplay]/gcshop/items/items_gui.lua:241
 msgid "HP Regen for 30 days"
-msgstr ""
+msgstr "HP Regeneratie voor 30 dagen"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:106
 #: resources/[gameplay]/gcshop/items/items_gui.lua:243
 msgid "Custom paintjob"
-msgstr ""
+msgstr "Aangepaste paintjob"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:107
 #: resources/[gameplay]/gcshop/items/items_gui.lua:246
 msgid "Voice"
-msgstr ""
+msgstr "Stem"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:108
 #: resources/[gameplay]/gcshop/items/items_gui.lua:251
 #: resources/[gameplay]/gcshop/items/items_gui.lua:253
 #: resources/[gameplay]/gcshop/items/items_gui.lua:256
 msgid "Longer burnup time"
-msgstr ""
+msgstr "Langere brandtijd"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:109
 #: resources/[gameplay]/gcshop/items/items_gui.lua:262
 msgid "Extra long burnup time"
-msgstr ""
+msgstr "Extra lange brandtijd"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:110
 #: resources/[gameplay]/gcshop/items/items_gui.lua:255
 msgid "Health transfer"
-msgstr ""
+msgstr "Gezondheidsoverdracht"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:111
 #: resources/[gameplay]/gcshop/items/items_gui.lua:258
 msgid "Double sided objects"
-msgstr ""
+msgstr "Dubbelzijdige objecten"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:112
 msgid "Colored Projectiles for 30 days"
-msgstr ""
+msgstr "Gekleurde projectielen voor 30 dagen"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:113
 msgid "NTS/DD Vehicle reroll for 30 days"
-msgstr ""
+msgstr "NTS/DD Voertuig herkiezing voor 30 dagen"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:114
 msgid "Deadline color change"
-msgstr ""
+msgstr "Deadline kleur veranderen"
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:27
 #: resources/[gameplay]/gcshop/items/items_c.lua:38
 #: resources/[gameplay]/gcshop/items/items_c.lua:70
 msgid "Price:"
-msgstr ""
+msgstr "Prijs:"
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:41
 msgid "Requires perk"
-msgstr ""
+msgstr "Vereist perk"
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:50
 msgid ""
 "Price: \n"
 "${price} GC\n"
 msgstr ""
+"Prijs:\n"
+"${price} GC\n"
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:50
 msgid "Expires ${expiry}"
-msgstr ""
+msgstr "Verloopt ${expiry}"
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:68
 msgid "Extra Price:"
-msgstr ""
+msgstr "Meerprijs:"
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:68
 msgid "Current amount:"
-msgstr ""
+msgstr "Huidig bedrag:"
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:70
 msgid "Bought!"
-msgstr ""
+msgstr "Gekocht!"
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:206
 msgid "DeadLine color is now: "
-msgstr ""
+msgstr "DeadLine kleur is nu: "
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:207
 msgid "Colored DeadLine will only appear when you have bought the perk."
-msgstr ""
+msgstr "Gekleurde DeadLine verschijnt pas als je de perk hebt gekocht."
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:244
 msgid "Rocket color is now: "
-msgstr ""
+msgstr "Raket kleur is nu: "
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:245
 msgid "Colored rockets will only appear when you have bought the perk."
-msgstr ""
+msgstr "Gekleurde raketten verschijnen pas als je de perk hebt gekocht."
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:235
 msgid ""
 "This perk allows you to do stunts on your bike while airborn. You can do "
 "tricks by pressing 1-5 and do 360 turns in the air."
 msgstr ""
+"Met deze perk kan je stunts doen op je (motor)fiets terwijl je in de lucht "
+"bent. Je kunt trucjes doen door op 1-5 te drukken en 360 rondjes in de lucht "
+"maken."
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:236
 #: resources/[gameplay]/gcshop/items/items_gui.lua:237
@@ -279,6 +338,8 @@ msgid ""
 "Price:\n"
 "${price} GC"
 msgstr ""
+"Prijs:\n"
+"${prijs} GC"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:238
 msgid ""
@@ -288,6 +349,11 @@ msgid ""
 "\n"
 "Expires after ${expiry} days"
 msgstr ""
+"Respawn tijd zal worden beperkt tot 1 seconde.\n"
+"Als je een checkpoint raakt, zal hhhet nu veel sneller (normaal gesproken 5 "
+"seconden) als respawnpunt worden gekozen, maar je behoudt je gezondheid.\n"
+"\n"
+"Verloopt na ${expiry} dagen"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:242
 msgid ""
@@ -296,6 +362,10 @@ msgid ""
 "\n"
 "Expires after ${expiry} days"
 msgstr ""
+"Regenereer je gezondheid. Wanner je beschadigd bent, zal deze perk "
+"aautomatiscch jou gezondheid regenereren tot je weer op 100% bent.\n"
+"\n"
+"Verloopt na ${expiry} dagen"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:245
 msgid ""
@@ -304,16 +374,22 @@ msgid ""
 "all vehicles at the same time. You can buy this multiple times so you can "
 "add multiple paintjobs to use."
 msgstr ""
+"Upload je eigen custom paintjob afbeelding voor voertuigen met paintjobs! Je "
+"kan dit doen in hhhet tabblad modshop. Er kan voor alle voertuigen tegelijk "
+"een custom paintjob worden ingesteld. Je kan deze meerdere keren kopen zodat "
+"je meerdere paintjobs kunt toevoegen om te gebruiken."
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:248
 msgid ""
 "Put that mic to good use, this grants you the right to speak freely on the "
 "server."
 msgstr ""
+"Zet die microfoon goed in, dit geeft je het rechht om vrijuit te spreken op "
+"de server."
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:250
 msgid "This perk will extend the burnup time of your vehicle with 50%."
-msgstr ""
+msgstr "Deze perk verlengt de brandtijd van jouw voertuig met 50%."
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:253
 msgid ""
@@ -322,6 +398,11 @@ msgid ""
 "Requires perk '${perk}'\n"
 "Expires after ${expiry} days"
 msgstr ""
+"Deze perk zal de brandtijd van jouw voertuig verlengen tot een totaal van "
+"100%.\n"
+"\n"
+"Vereist perk '${perk}'\n"
+"Verloopt na ${expiry} dagen"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:256
 msgid ""
@@ -331,32 +412,39 @@ msgid ""
 "Requires perk '${perk}'\n"
 "Expires after ${expiry} days"
 msgstr ""
+"Het klassieke brandtransferscript. Als je in brand staat, raak dan iemand en "
+"je zult zijn gezondheid stelen.\n"
+"\n"
+"Vereist perk `${perk}`\n"
+"Verloopt na ${expiry} dagen"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:257
 msgid ""
 "Price:\n"
 "Disabled"
 msgstr ""
+"Prijs:\n"
+"Uitgeschakeld"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:259
 msgid "Makes all objects in a map doublesided (setElementDoubleSided)"
-msgstr ""
+msgstr "Maakt alle objecten in een map dubbelzijdig (setElementDoubleSided)"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:261
 msgid "Colored Rockets for ${price} days"
-msgstr ""
+msgstr "Gekleurde Raketten voor ${price} dagen"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:263
 msgid "Make all your projectiles (rockets) appear in color."
-msgstr ""
+msgstr "Laat al je projectielen (raketten) in kleur verschijnen."
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:264
 msgid "Set Color"
-msgstr ""
+msgstr "Stel kleur in"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:266
 msgid "NTS/DD vehicle reroll for 30 days"
-msgstr ""
+msgstr "NTS/DD voertuig herkiezing foor 30 dagen"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:267
 msgid ""
@@ -364,35 +452,41 @@ msgid ""
 "map. \n"
 "Press '${key}' or ${command} to activate."
 msgstr ""
+"Heb je een slechte voertuig in NTS/DD, met deze perk kan je het één keer per "
+"map veranderen.\n"
+"Druk `${key}` of ${command} om te activeren."
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:269
 msgid "DeadLine color change for 30 days"
-msgstr ""
+msgstr "DeadLine kleur voor 30 dagen"
 
 #: resources/[gameplay]/gcshop/items/items_gui.lua:270
 msgid "Change your DeadLine color."
-msgstr ""
+msgstr "Verander je DeadLine kleur."
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:476
 msgid ""
 "Please use a different file extension. Only ${extensions} files are allowed"
 msgstr ""
+"Gebruik een andere bestandsextensie. Alleen ${extensions} bestanden zijn "
+"toegestaan"
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:484
 msgid "Custom paintjob image ${file} not found!"
-msgstr ""
+msgstr "Custom paintjob afbeelding ${file} niet gevonden!"
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:492
 msgid "Custom paintjob image ${file} is not a valid image"
-msgstr ""
+msgstr "Custom paintjob afbeelding ${file} is geen geldige afbeelding"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:228
 msgid "This upgrade is not added: ${model} + ${upgrade}"
-msgstr ""
+msgstr "Deze upgrade is niet toegevoegd: ${model} + ${upgrade}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_c.lua:17
 msgid "You should register and log in to buy vehicles and upgrade them"
 msgstr ""
+"Je moet je registreren en inloggen om voertuigen te kopen en te upgraden"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_c.lua:47
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:320
@@ -401,59 +495,63 @@ msgid ""
 "\n"
 "All upgrades are free for owned vehicles"
 msgstr ""
+"Huidige prijs voor één voertuig: ${price} GC\n"
+"\n"
+"Alle upgrades zijn gratis voor gekochte voertuigen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_c.lua:455
 msgid "Choose a custom paintjob from the list!"
-msgstr ""
+msgstr "Kies een custom paintjob van de lijst!"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:314
 msgid "Buy vehicles"
-msgstr ""
+msgstr "Voertuigen kopen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:316
 msgid "Vehicle"
-msgstr ""
+msgstr "Voertuig"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:317
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:319
 msgid "Buy vehicle"
-msgstr ""
+msgstr "Koop voertuig"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:321
 msgid "Upgrade this vehicle"
-msgstr ""
+msgstr "Upgrade deze voertuig"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:322
 msgid "View current vehicle"
-msgstr ""
+msgstr "Bekijk huidige voertuig"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:323
 msgid "Colors + Paintjobs"
-msgstr ""
+msgstr "Kleuren + Paintjobs"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:324
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:325
 msgid "Paint ${num}:"
-msgstr ""
+msgstr "Verf ${num}:"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:326
 msgid "Wheels:"
-msgstr ""
+msgstr "Wielen:"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:327
 msgid "Lights:"
-msgstr ""
+msgstr "Lichten:"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:328
 msgid "You can change a vehicle's colors and its headlight color."
 msgstr ""
+"Je kan de kleuren van een voertuig en de kleur van de koplamp veranderen."
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:329
 msgid "Save colors"
-msgstr ""
+msgstr "Kleuren opslaan"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:330
 msgid ""
@@ -461,45 +559,48 @@ msgid ""
 "Custom paintjobs work on most vehicles without paintjobs, but are randomly "
 "aligned, be warned!"
 msgstr ""
+"Hieronder kan je een custom paintjob uploaden.\n"
+"Custom paintjobs werken op de meeste voertuigen zonder paintjobs, maar zijn "
+"willekeurig uitgelijnd, wees gewaarscchuwd!"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:331
 msgid "File path or direct link (URL):"
-msgstr ""
+msgstr "Bestandspad of directe link (URL):"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:332
 msgid "Don't forget to Apply and Save Paintjob"
-msgstr ""
+msgstr "Vergeet niet om Paintjob Toepassen en Opslaan te drukken"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:334
 msgid "Paintjob"
-msgstr ""
+msgstr "Paintjob"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:336
 msgid "Apply and Save Paintjob"
-msgstr ""
+msgstr "Paintjob Toepassen en Opslaan"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:337
 msgid "Apply and Save Paintjob for ALL vehicles"
-msgstr ""
+msgstr "Paintjob Toepassen en Opslaan voor ALLE voertuigen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:338
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:339
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:340
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:341
 msgid "Change"
-msgstr ""
+msgstr "Veranderen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:342
 msgid "Save colors for ALL vehicles"
-msgstr ""
+msgstr "Kleuren opslaan voor ALLE voertuigen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:343
 msgid "Upload Paintjob"
-msgstr ""
+msgstr "Paintjob Uploaden"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:344
 msgid "file.bmp or http://i.imgur.com/bLaBlA.jpg"
-msgstr ""
+msgstr "file.bmp of http://i.imgur.com/bLaBlA.jpg"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:345
 msgid ""
@@ -507,63 +608,66 @@ msgid ""
 "paintjob images into this folder: \\MTA San Andreas\\mods\\deathmatch"
 "\\resources\\gcshop\\"
 msgstr ""
+"Je kan gebruik maken van een TinyPic.com, Imgur.com, Postimg.org directe "
+"link, of kopieer een custom paintjob afbeelding naar deze map: \\MTA San "
+"Andreas\\mods\\deathmatch\\resources\\gcshop\\"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:346
 msgid "Rims + Upgrades"
-msgstr ""
+msgstr "Velgen + Upgrades"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:347
 msgid "Add upgrade"
-msgstr ""
+msgstr "Upgrade toevoegen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:349
 msgid "Upgrade Name"
-msgstr ""
+msgstr "Upgrade Naam"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:350
 msgid "Upgrade ID"
-msgstr ""
+msgstr "Upgrade ID"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:352
 msgid "Remove upgrade"
-msgstr ""
+msgstr "Upgrade verwijderen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:353
 msgid "Add upgrade for all"
-msgstr ""
+msgstr "Upgrade toevoegen voor alles"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:354
 msgid "Remove upgrade for all"
-msgstr ""
+msgstr "Upgrade verwijderen voor alles"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:355
 msgid "Neon lights"
-msgstr ""
+msgstr "Neonlichten"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:356
 msgid "Green"
-msgstr ""
+msgstr "Groen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:357
 msgid "Orange"
-msgstr ""
+msgstr "Oranje"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:358
 msgid "Red"
-msgstr ""
+msgstr "Rood"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:359
 msgid "Yellow"
-msgstr ""
+msgstr "Geel"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:360
 msgctxt "color"
 msgid "Aqua"
-msgstr ""
+msgstr "Aqua"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:361
 msgid "Remove neon"
-msgstr ""
+msgstr "Neon verwijderen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:362
 msgid ""
@@ -573,14 +677,19 @@ msgid ""
 "If the buttons are not clickable, it means you can not add neon to this "
 "vehicle."
 msgstr ""
+"Klik op de knop met de gewensde kleur voor de neonlichten. Klik op de "
+"verwijder knop om de neonlichten te verwijderen\n"
+"\n"
+"Als de knop niet aanklikbaar is, betekent dit dat je geen neon aan dit "
+"voertuig kunt toevoegen."
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:363
 msgid "Custom horns"
-msgstr ""
+msgstr "Aangepaste claxons"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:364
 msgid "Enable extra mods!"
-msgstr ""
+msgstr "Schakel extra modificaties in!"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:365
 msgid ""
@@ -592,14 +701,22 @@ msgid ""
 "\n"
 "Price: ${price}"
 msgstr ""
+"Schakel de extra modificaties in voor enkele nieuwe functionaliteiten in de "
+"modshop.\n"
+"\n"
+"- Aangepaste claxon\n"
+"- Neonlichten\n"
+"\n"
+"\n"
+"Prijs: ${price}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:366
 msgid "Currently modding: ${vehicle}"
-msgstr ""
+msgstr "Momentele modificatie: ${vehicle}"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:42
 msgid "In this tab you can manage your locked nicknames."
-msgstr ""
+msgstr "In dit tabblat kan je jouw vergrendelde namen beheren."
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
 msgid ""
@@ -610,67 +727,75 @@ msgid ""
 "Click on \"${btn3}\" to do so. \n"
 "Trolling and deliberate nickstealing can get you banned."
 msgstr ""
+"Om je huidige naam te vergrendelen moet je op \"${btn1}\" klikken.\n"
+"Om een vergrendelde naam te v erwijderen, selecteer je de naam in de lijst "
+"en klik je op \"${btn2}\".\n"
+"Als je een extra vergrendelde naam nodig hebt, kun je extra plaatsen kopen. "
+"Klik op \"${btn3}\" om dit te doen.\n"
+"Trollen en het opzettelijk stelen van namen kunnen resulteren in een ban."
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:45
 msgid "Lock current nickname"
-msgstr ""
+msgstr "Vergrendel huidige naam"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
 msgid "Remove selected nick"
-msgstr ""
+msgstr "Verwijdern geselecteerde naam"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
 msgid "Buy extra lock nick slot"
-msgstr ""
+msgstr "Koop extra vergrendeling plaatsen"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:44
 msgid "My Locked Nicknames"
-msgstr ""
+msgstr "Mijn Vergrendelde Namen"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:46
 msgid "Remove selected nickname"
-msgstr ""
+msgstr "Verwijdern vergrendelde naam"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:47
 msgid "Current price: ${price} GC per extra slot (max: ${slots} slots)"
-msgstr ""
+msgstr "Huidige prijs: ${pricce} GCC per extra plaats (max: ${slot} plaatsen)"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:48
 msgid "Buy extra locknick slot"
-msgstr ""
+msgstr "Koop extra vergrendeling plaatsen"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:49
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:58
 msgid "${used}/${max} nickname slots in use"
-msgstr ""
+msgstr "${used}/${max} vergrendeling plaatsen in gebruik"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:95
 msgid ""
 "Maximum locked nicknames reached. Please buy more slots if you wish to lock "
 "more nicknames."
 msgstr ""
+"Maximaal aantal vergrendelde namen bereikt. Koop meer plaatsen als je meer "
+"namen wilt vergrendelen."
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:102
 msgid "Please select a name before removing it"
-msgstr ""
+msgstr "Selecteer een naam voordat je deze verwijdert"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:108
 msgid "Please do not spam click buttons"
-msgstr ""
+msgstr "Gelieve niet te spammen op de knoppen"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:113
 msgid "Maximum amount of nickname slots reached (${max})"
-msgstr ""
+msgstr "Maximaal aantal vergrendelde namen bereikt (${max})"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:125
 msgctxt "GCshop Teams Tab"
 msgid "Teams"
-msgstr ""
+msgstr "Teams"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:126
 msgid "Your Team"
-msgstr ""
+msgstr "Jouw Team"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:127
 msgid ""
@@ -679,308 +804,333 @@ msgid ""
 "days, but everyone in the team can refresh the team duration. Clan owners "
 "can transfer ownership with /makeowner PlayerName with color code."
 msgstr ""
+"Creëer je eigen team! Je kan een naam, tag, kleur, welkomstboodschap en "
+"spelers in jouw team uitnodigen. Teams vervallen na 20/40/60 dagen, maar "
+"iedereen in het team kan de teamduur verversen. Team eigenaren kunnen het "
+"eigendom overdragen met /makeowner SpelerNaam met kleurencodes."
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:128
 msgid ""
 "Create team\n"
 "${price} GC / ${amount} days"
 msgstr ""
+"Creëer een team\n"
+"${price} GC / ${amount} dagen"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:129
 msgid ""
 "Save changes\n"
 "${price} GC"
 msgstr ""
+"Wijzigingen opslaan\n"
+"${price} GC"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:130
 msgid "Team Name"
-msgstr ""
+msgstr "Team Naam"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:131
 msgid "Team Tag"
-msgstr ""
+msgstr "Team Tag"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:132
 msgid "Team Color"
-msgstr ""
+msgstr "Team Kleur"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:133
 msgid "Don't show team invites"
-msgstr ""
+msgstr "Laat geen teamuitnodigingen zien"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:134
 msgid "/Invite player"
-msgstr ""
+msgstr "Nodig speler uit"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:135
 msgid "Kick player"
-msgstr ""
+msgstr "Verwijder speler"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:136
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:231
 msgid "Leave team"
-msgstr ""
+msgstr "Team verlaten"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:137
 msgid "Welcome message"
-msgstr ""
+msgstr "Welkomstboodschap"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:138
 msgid "Team"
-msgstr ""
+msgstr "Team"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:139
 msgid "Member"
-msgstr ""
+msgstr "Lid"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:140
 msgid "Team Wars"
-msgstr ""
+msgstr "Team Oorlog"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:141
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:145
 msgid "Select maps"
-msgstr ""
+msgstr "Maps selecteren"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:142
 msgid "Select maps to be played in a Team War:"
-msgstr ""
+msgstr "Selecteer maps die in een team oorlog moet worden gespeeld:"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:143
 msgid "Add >"
-msgstr ""
+msgstr "Toevoegen >"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:144
 msgid "< Remove"
-msgstr ""
+msgstr "< Verwijderen"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:201
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:209
 msgid " (Owner) (${age}/${remain} days left"
-msgstr ""
+msgstr " (Eigenaar) (${age}/${remain} dagen resterend"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:214
 msgid ""
 "Renew team\n"
 "${price} GC / ${amount} days"
 msgstr ""
+"Team hernieuwen\n"
+"${price} GC / ${amount} dagen"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:236
 msgid ""
 "Buy team\n"
 "${price} GC / ${amount} days"
 msgstr ""
+"Team kopen\n"
+"${pricec} GC / ${amount} dagen"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:250
 msgid "Rejoin team"
-msgstr ""
+msgstr "Heraansluiten bij team"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:283
 msgid "Team invite"
-msgstr ""
+msgstr "Team uitnodiging"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:285
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:288
 msgid "Invite"
-msgstr ""
+msgstr "Uitnodigen"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:286
 msgid "Close"
-msgstr ""
+msgstr "Sluiten"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:55
 msgid "Selling failed! You are either not logged in or don't have that skin!"
 msgstr ""
+"De verkoop is mislukt! Je bent of niet ingelogd, of je hebt de skin niet!"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:85
 msgid "Please select the skin you want to sell!"
-msgstr ""
+msgstr "Selecteer de skin die je wil verkopen!"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:95
 msgid "You can only sell skins once every ${cooldown} seconds!"
-msgstr ""
+msgstr "Je kunt maar één keer per ${cooldown} seconde een skin verkopen!"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:181
 msgctxt "Character model"
 msgid "Skin"
-msgstr ""
+msgstr "Skin"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:182
 msgid "Buy skins"
-msgstr ""
+msgstr "Koop skins"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:183
 msgid "Buy price: ${buyprice} GC | Sell price: ${sellprice} GC"
-msgstr ""
+msgstr "Koop prijs: ${buyprice} GC | Verkoop prijs ${sellprice} GC"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:184
 msgid "You can own multiple skins, but only use one."
-msgstr ""
+msgstr "U kunt meerdere skins bezitten, maar slechts één gebruiken."
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:185
 msgid "Not enough GreenCoins or you already own this skin"
-msgstr ""
+msgstr "Niet genoeg GreenCoins of je hebt deze skin al in jouw bezit"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:186
 msgid "Please input a number"
-msgstr ""
+msgstr "Voer een nummer in"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:187
 msgid "Or not logged in"
-msgstr ""
+msgstr "Of niet ingelogd"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:188
 msgid "Skin bought/sold successfully!"
-msgstr ""
+msgstr "Skin meet succes gekocht/verkocht!"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:189
 msgid "Preview skin"
-msgstr ""
+msgstr "Voorbeeld van skin"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:190
 msgid "Buy skin"
-msgstr ""
+msgstr "Skin kopen"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:191
 msgid "Sell skin"
-msgstr ""
+msgstr "Skin verkopen"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:192
 msgid "Set primary skin"
-msgstr ""
+msgstr "Stel in als primaire skin"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:193
 msgid "Disable skins feature"
-msgstr ""
+msgstr "Schakel skins-functie uit"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:202
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:219
 #, lua-format
 msgid "Your ID purchases so far: %s"
-msgstr ""
+msgstr "Jouw ID aankopen tot nu toe: %s"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:69
 msgid "Maps-Center"
-msgstr ""
+msgstr "Maps-Centrum"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:70
 msgid "All Maps"
-msgstr ""
+msgstr "Alle Maps"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:71
 msgid "Queued Maps"
-msgstr ""
+msgstr "Maps in de wachtrij"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:73
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:83
 msgid "Map Name"
-msgstr ""
+msgstr "Map Naam"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:74
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:75
 msgid "Price"
-msgstr ""
+msgstr "Prijs"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:76
 msgid "Resource Name"
-msgstr ""
+msgstr "Resource Naam"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:77
 msgid "Gamemode"
-msgstr ""
+msgstr "Gamemode"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:79
 msgid "Buy selected map"
-msgstr ""
+msgstr "Geselecteerde map kopen"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:80
 msgid "Refresh list"
-msgstr ""
+msgstr "Vernieuw lijst"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:82
 msgid "Priority"
-msgstr ""
+msgstr "Prioriteit"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:85
 msgid "This is the Maps-Center. Here you can buy maps."
-msgstr ""
+msgstr "Dit is de Maps-Centrum. Hier kan je maps kopen."
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:86
 msgid "Select a map you like and click \"Buy selected map\""
-msgstr ""
+msgstr "Selecteer een map en klik op \"Geselecteerde map kopen\""
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:87
 msgid ""
 "The map will be added to the Server Queue, where all bought maps are stored "
 "until they're played"
 msgstr ""
+"De map wordt toegevoegd aan de serverwachtrij, waar alle gekochhte maps "
+"worden opgeslagen totdat ze worden afgespeeld"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:88
 msgid ""
 "The winner of the last map played\n"
 "gets ${discount} % off!"
 msgstr ""
+"De winnaar van de laatst gespeelde map\n"
+"krijgt ${discount} % korting!"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:89
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:290
 msgid "Purchase VIP to get a free map every day!"
-msgstr ""
+msgstr "Koop VIP om elke dag een gratis map te krijgen!"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:260
 msgid ""
 "Every map is ${discount}% off\n"
 "because you have won the last map!"
 msgstr ""
+"Elke map heeft ${discount}% korting\n"
+"omdat je de laatste map hebt gewonnen!"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:263
 msgid ""
 "The winner of the last map played\n"
 "gets ${discount}% off!"
 msgstr ""
+"De winnaar van de laatst gespeelde map\n"
+"krijgt ${discount}% korting!"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:276
 msgid "Your next map will be free! (VIP)"
-msgstr ""
+msgstr "Jouw volgende map is gratis! (VIP)"
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:280
 msgid ""
 "You have used your free VIP map. \n"
 "You will get another one tomorrow! (00:00 CET)"
 msgstr ""
+"Je hebt jouw gratis VIP map gebruikt.\n"
+"Morgen krijg je er eer een! (00:00 CET)"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:572
 msgid "Custom Horns"
-msgstr ""
+msgstr "Aangepaste Claxons"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:573
 msgid "Buy Horns"
-msgstr ""
+msgstr "Claxon Kopen"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:574
 msgid "Available Horns"
-msgstr ""
+msgstr "Beschikbare Claxons"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:575
 msgid "My Horns"
-msgstr ""
+msgstr "Mijn Claxons"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:576
 msgctxt "Keyboard"
 msgid "Key"
-msgstr ""
+msgstr "Toets"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:577
 msgid ""
 "Select a horn out of the list and press \"Buy\" to buy for regular usage or "
 "double-click to listen it."
 msgstr ""
+"Selecteer een claxon uit de lijst en klik op \"Kopen\" om het te gebruiken, "
+"of dubbel-klik om het te beluisteren."
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:578
 msgid "Double-click to listen to a horn:"
-msgstr ""
+msgstr "Dubbel-klik om claxon te beluisteren:"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:579
 msgid ""
@@ -988,36 +1138,45 @@ msgid ""
 "However, you can buy unlimited usage of the custom horn for ${price} GC. "
 "This item applies to all horns."
 msgstr ""
+"Claxons kunnen maar 3 keer per map gebruikt worden (${cooldown} seconde "
+"afkoel periode). Je kan echter onbeperkt gebruik maken van de aangepaste "
+"claxon voor ${price} GC. Dit is van toepassing op alle claxons."
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:580
 msgid "Double-click to bind horn to a key:"
-msgstr ""
+msgstr "Dubbel-klik om claxon aan toets te koppelen:"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:581
 msgid "(for gamepads)"
-msgstr ""
+msgstr "(voor gamepads)"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:582
 msgid ""
 "Buy selected horn\n"
 "Price: ${price} GC"
 msgstr ""
+"Koop geselecteerde claxon\n"
+"Prijs: ${price} GC"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:583
 msgid ""
 "Unbind\n"
 "all horns"
 msgstr ""
+"Ontkoppel\n"
+"alle claxons"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:584
 msgid ""
 "Bind to a horn control name\n"
 "(Esc -> Settings -> Binds)"
 msgstr ""
+"Koppel een claxon aan een controle naam\n"
+"(Esc -> Instellingen-> Toetsen)"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:585
 msgid "Sell horn"
-msgstr ""
+msgstr "Claxon verkopen"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:586
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:844
@@ -1025,50 +1184,53 @@ msgid ""
 "Buy unlimited usage\n"
 "Price: ${price} GC"
 msgstr ""
+"Onbeperkt gebruik kopen\n"
+"Prijs: ${price} GC"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:587
 msgid "Horn Perks"
-msgstr ""
+msgstr "Claxon Perks"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:597
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:634
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:675
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:699
 msgid "Select a horn first"
-msgstr ""
+msgstr "Selecteer eerst een claxon"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:608
 msgid "You can sell a horn once every 5 seconds!"
-msgstr ""
+msgstr "Je kunt elke 5 seconden een claxon verkopen!"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:703
 msgid "Binding a key to horn"
-msgstr ""
+msgstr "Koppel toets aan een claxon"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:704
 msgid "Press a key to bind or escape to clear"
-msgstr ""
+msgstr "Druk op een toets om te koppelen, of de escape-toets om te wissen"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:808
 msgid "Horn successfully bought"
-msgstr ""
+msgstr "Claxon met succes gekocht"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:809
 msgid "getHornsData"
-msgstr ""
+msgstr "getHornsData"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:811
 msgid ""
 "Either not logged in, not enough GreenCoins, or you already have this horn."
 msgstr ""
+"Of je bent niet ingelogd, niet genoeg GreenCoins, of je hebt deze claxon al."
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:819
 msgid "Horn successfully sold"
-msgstr ""
+msgstr "Claxon met succes verkocht"
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:822
 msgid "Either not logged in or you don't have this horn."
-msgstr ""
+msgstr "Of je bent niet ingelogd of je hebt deze claxon niet."
 
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:832
 #: resources/[gameplay]/gcshop/horns/horns_c.lua:1053
@@ -1077,3 +1239,6 @@ msgid ""
 "Price: ${price} GC\n"
 "Bought!"
 msgstr ""
+"Koop onbeperkt gebruik\n"
+"Prijs: ${price} GC\n"
+"Gekocht!"
