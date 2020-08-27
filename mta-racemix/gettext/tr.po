@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-27 23:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
+
+#: resources/[gameplay]/joinquit/joinquit_gi.lua:6
+msgid "${oldNick}#FF6464 is now known as ${newNick}"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:260
+msgid "unknown"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:261
+msgid "quit"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:262
+msgid "kicked"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:263
+msgid "banned"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:264
+msgid "bad connection"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:265
+msgid "timed out"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:273
+msgctxt "location"
+msgid "from"
+msgstr ""
