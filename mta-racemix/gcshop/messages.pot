@@ -1,57 +1,57 @@
-#: resources/[gameplay]/gcshop/gcshop_c.lua:85
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:85
 msgid "GreenCoin"
 msgid_plural "GreenCoins"
 msgstr[0] ""
 msgstr[1] ""
 
-#: resources/[gameplay]/gcshop/gcshop_c.lua:93
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:93
 msgid ""
 "You successfully logged in!\n"
 "\n"
 "Your account is linked to your pc and you will automatically log in."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_c.lua:94
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:94
 msgid "Log out"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_c.lua:105
-#: resources/[gameplay]/gcshop/gcshop_c.lua:116
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:146
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:105
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:116
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:146
 msgid "Login"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_c.lua:108
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:108
 msgid ""
 "Wrong username, e-mail or password! Go to www.mrgreengaming.com/forums/"
 "lostpassword/ to retrieve your password."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_c.lua:119
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:119
 msgid "Not logged in!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_c.lua:159
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:159
 msgid "Press F6 to buy items in the GreenCoins shop."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_c.lua:194
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:194
 msgid "Need more GreenCoins?"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_c.lua:197
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_c.lua:197
 msgid "Then visit: https://mrgreengaming.com/greencoins/donate"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:100
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:100
 msgid "GreenCoins Shop (F6 to close)"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:101
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:101
 msgid "Home"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:103
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:103
 msgid ""
 "Hello and welcome to the Grand Guide to GreenCoins!\n"
 "\n"
@@ -74,11 +74,11 @@ msgid ""
 "\n"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:120
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:120
 msgid "Donate"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:122
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:122
 msgid ""
 "You can donate. For each euro donated you get 1000 GreenCoins.\n"
 "\n"
@@ -93,11 +93,11 @@ msgid ""
 "\n"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:133
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:133
 msgid "Win"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:135
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:135
 msgid ""
 "The second way to get GreenCoins is racing.\n"
 "\n"
@@ -110,17 +110,17 @@ msgid ""
 "\n"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:143
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:143
 msgid ""
 "More info in the Network section or use this link: http://forums."
 "mrgreengaming.com/topic/2183-the-grand-guide-to-green-coins/"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:144
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:144
 msgid "Register / Login"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:145
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:145
 msgid ""
 "1. Register an account on our Forums ( https://mrgreengaming.com/forums )\n"
 "\n"
@@ -128,145 +128,145 @@ msgid ""
 "2. Log in using your Forums account:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:147
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:147
 msgid "Username or email:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/gcshop_gui.lua:148
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/gcshop_gui.lua:148
 msgid "Password:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:103
-#: resources/[gameplay]/gcshop/items/items_gui.lua:234
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:103
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:234
 msgid "Bike trials"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:104
-#: resources/[gameplay]/gcshop/items/items_gui.lua:239
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:104
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:239
 msgid "Faster respawn for 60 days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:105
-#: resources/[gameplay]/gcshop/items/items_gui.lua:241
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:105
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:241
 msgid "HP Regen for 30 days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:106
-#: resources/[gameplay]/gcshop/items/items_gui.lua:243
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:106
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:243
 msgid "Custom paintjob"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:107
-#: resources/[gameplay]/gcshop/items/items_gui.lua:246
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:107
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:246
 msgid "Voice"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:108
-#: resources/[gameplay]/gcshop/items/items_gui.lua:251
-#: resources/[gameplay]/gcshop/items/items_gui.lua:253
-#: resources/[gameplay]/gcshop/items/items_gui.lua:256
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:108
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:251
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:253
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:256
 msgid "Longer burnup time"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:109
-#: resources/[gameplay]/gcshop/items/items_gui.lua:262
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:109
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:262
 msgid "Extra long burnup time"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:110
-#: resources/[gameplay]/gcshop/items/items_gui.lua:255
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:110
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:255
 msgid "Health transfer"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:111
-#: resources/[gameplay]/gcshop/items/items_gui.lua:258
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:111
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:258
 msgid "Double sided objects"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:112
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:112
 msgid "Colored Projectiles for 30 days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:113
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:113
 msgid "NTS/DD Vehicle reroll for 30 days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_s.lua:114
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_s.lua:114
 msgid "Deadline color change"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:27
-#: resources/[gameplay]/gcshop/items/items_c.lua:38
-#: resources/[gameplay]/gcshop/items/items_c.lua:70
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:27
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:38
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:70
 msgid "Price:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:41
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:41
 msgid "Requires perk"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:50
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:50
 msgid ""
 "Price: \n"
 "${price} GC\n"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:50
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:50
 msgid "Expires ${expiry}"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:68
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:68
 msgid "Extra Price:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:68
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:68
 msgid "Current amount:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:70
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:70
 msgid "Bought!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:206
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:206
 msgid "DeadLine color is now: "
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:207
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:207
 msgid "Colored DeadLine will only appear when you have bought the perk."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:244
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:244
 msgid "Rocket color is now: "
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_c.lua:245
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_c.lua:245
 msgid "Colored rockets will only appear when you have bought the perk."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:235
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:235
 msgid ""
 "This perk allows you to do stunts on your bike while airborn. You can do "
 "tricks by pressing 1-5 and do 360 turns in the air."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:236
-#: resources/[gameplay]/gcshop/items/items_gui.lua:237
-#: resources/[gameplay]/gcshop/items/items_gui.lua:240
-#: resources/[gameplay]/gcshop/items/items_gui.lua:244
-#: resources/[gameplay]/gcshop/items/items_gui.lua:247
-#: resources/[gameplay]/gcshop/items/items_gui.lua:249
-#: resources/[gameplay]/gcshop/items/items_gui.lua:252
-#: resources/[gameplay]/gcshop/items/items_gui.lua:254
-#: resources/[gameplay]/gcshop/items/items_gui.lua:260
-#: resources/[gameplay]/gcshop/items/items_gui.lua:265
-#: resources/[gameplay]/gcshop/items/items_gui.lua:268
-#: resources/[gameplay]/gcshop/items/items_gui.lua:271
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:236
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:237
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:240
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:244
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:247
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:249
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:252
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:254
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:260
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:265
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:268
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:271
 msgid ""
 "Price:\n"
 "${price} GC"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:238
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:238
 msgid ""
 "Respawn time will be limited to 1 second. \n"
 "If you hit a checkpoint, it will be chosen as the respawn point much faster "
@@ -275,7 +275,7 @@ msgid ""
 "Expires after ${expiry} days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:242
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:242
 msgid ""
 "Regenerate your health. When damaged, this perk will automatically "
 "regenerate your health untill you're back at 100% again.\n"
@@ -283,7 +283,7 @@ msgid ""
 "Expires after ${expiry} days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:245
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:245
 msgid ""
 "Upload your own custom paintjob images for vehicles with paintjobs! You will "
 "be able to do this in the modshop tab. One custom paintjob can be set for "
@@ -291,17 +291,17 @@ msgid ""
 "add multiple paintjobs to use."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:248
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:248
 msgid ""
 "Put that mic to good use, this grants you the right to speak freely on the "
 "server."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:250
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:250
 msgid "This perk will extend the burnup time of your vehicle with 50%."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:253
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:253
 msgid ""
 "This perk will extend the burnup time of your vehicle to a total of 100%.\n"
 "\n"
@@ -309,7 +309,7 @@ msgid ""
 "Expires after ${expiry} days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:256
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:256
 msgid ""
 "The classic fire transfer script. If you're on fire, hit someone and you "
 "will steal his health.\n"
@@ -318,240 +318,240 @@ msgid ""
 "Expires after ${expiry} days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:257
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:257
 msgid ""
 "Price:\n"
 "Disabled"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:259
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:259
 msgid "Makes all objects in a map doublesided (setElementDoubleSided)"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:261
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:261
 msgid "Colored Rockets for ${price} days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:263
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:263
 msgid "Make all your projectiles (rockets) appear in color."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:264
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:264
 msgid "Set Color"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:266
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:266
 msgid "NTS/DD vehicle reroll for 30 days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:267
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:267
 msgid ""
 "Having a bad vehicle in NTS/DD, with this perk you can change it once per "
 "map. \n"
 "Press '${key}' or ${command} to activate."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:269
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:269
 msgid "DeadLine color change for 30 days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/items_gui.lua:270
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/items_gui.lua:270
 msgid "Change your DeadLine color."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:476
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:476
 msgid ""
 "Please use a different file extension. Only ${extensions} files are allowed"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:484
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:484
 msgid "Custom paintjob image ${file} not found!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:492
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:492
 msgid "Custom paintjob image ${file} is not a valid image"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:228
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_s.lua:228
 msgid "This upgrade is not added: ${model} + ${upgrade}"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_c.lua:17
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_c.lua:17
 msgid "You should register and log in to buy vehicles and upgrade them"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_c.lua:47
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:320
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_c.lua:47
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:320
 msgid ""
 "Current price for one vehicle: ${price} GC\n"
 "\n"
 "All upgrades are free for owned vehicles"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_c.lua:455
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_c.lua:455
 msgid "Choose a custom paintjob from the list!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:314
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:314
 msgid "Buy vehicles"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:316
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:316
 msgid "Vehicle"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:317
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:317
 msgid "ID"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:319
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:319
 msgid "Buy vehicle"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:321
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:321
 msgid "Upgrade this vehicle"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:322
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:322
 msgid "View current vehicle"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:323
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:323
 msgid "Colors + Paintjobs"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:324
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:325
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:324
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:325
 msgid "Paint ${num}:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:326
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:326
 msgid "Wheels:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:327
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:327
 msgid "Lights:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:328
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:328
 msgid "You can change a vehicle's colors and its headlight color."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:329
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:329
 msgid "Save colors"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:330
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:330
 msgid ""
 "Below you can upload custom paint job.\n"
 "Custom paintjobs work on most vehicles without paintjobs, but are randomly "
 "aligned, be warned!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:331
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:331
 msgid "File path or direct link (URL):"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:332
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:332
 msgid "Don't forget to Apply and Save Paintjob"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:334
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:334
 msgid "Paintjob"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:336
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:336
 msgid "Apply and Save Paintjob"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:337
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:337
 msgid "Apply and Save Paintjob for ALL vehicles"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:338
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:339
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:340
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:341
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:338
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:339
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:340
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:341
 msgid "Change"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:342
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:342
 msgid "Save colors for ALL vehicles"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:343
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:343
 msgid "Upload Paintjob"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:344
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:344
 msgid "file.bmp or http://i.imgur.com/bLaBlA.jpg"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:345
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:345
 msgid ""
 "You can use a TinyPic.com, Imgur.com, Postimg.org direct link or copy custom "
 "paintjob images into this folder: \\MTA San Andreas\\mods\\deathmatch"
 "\\resources\\gcshop\\"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:346
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:346
 msgid "Rims + Upgrades"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:347
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:347
 msgid "Add upgrade"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:349
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:349
 msgid "Upgrade Name"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:350
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:350
 msgid "Upgrade ID"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:352
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:352
 msgid "Remove upgrade"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:353
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:353
 msgid "Add upgrade for all"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:354
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:354
 msgid "Remove upgrade for all"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:355
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:355
 msgid "Neon lights"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:356
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:356
 msgid "Green"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:357
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:357
 msgid "Orange"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:358
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:358
 msgid "Red"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:359
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:359
 msgid "Yellow"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:360
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:360
 msgctxt "color"
 msgid "Aqua"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:361
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:361
 msgid "Remove neon"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:362
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:362
 msgid ""
 "Click on the buttons with the corresponding colors you want for the neon "
 "lights. Click on the remove button to remove the neon lights.\n"
@@ -560,15 +560,15 @@ msgid ""
 "vehicle."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:363
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:363
 msgid "Custom horns"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:364
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:364
 msgid "Enable extra mods!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:365
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:365
 msgid ""
 "Enable the extra mods for some new features in the modshop.\n"
 "\n"
@@ -579,15 +579,15 @@ msgid ""
 "Price: ${price}"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:366
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/modshop/modshop_GUI.lua:366
 msgid "Currently modding: ${vehicle}"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:42
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:42
 msgid "In this tab you can manage your locked nicknames."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
 msgid ""
 "To lock your current nickname you have to click on \"${btn1}\". \n"
 "To remove a locked nick, select the nick in the gridlist, then click on "
@@ -597,68 +597,68 @@ msgid ""
 "Trolling and deliberate nickstealing can get you banned."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:45
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:45
 msgid "Lock current nickname"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
 msgid "Remove selected nick"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:43
 msgid "Buy extra lock nick slot"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:44
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:44
 msgid "My Locked Nicknames"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:46
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:46
 msgid "Remove selected nickname"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:47
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:47
 msgid "Current price: ${price} GC per extra slot (max: ${slots} slots)"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:48
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:48
 msgid "Buy extra locknick slot"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:49
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:58
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:49
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:58
 msgid "${used}/${max} nickname slots in use"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:95
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:95
 msgid ""
 "Maximum locked nicknames reached. Please buy more slots if you wish to lock "
 "more nicknames."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:102
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:102
 msgid "Please select a name before removing it"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:108
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:108
 msgid "Please do not spam click buttons"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:113
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/lockednicks/lockednicks_c.lua:113
 msgid "Maximum amount of nickname slots reached (${max})"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:125
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:125
 msgctxt "GCshop Teams Tab"
 msgid "Teams"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:126
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:126
 msgid "Your Team"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:127
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:127
 msgid ""
 "Create your own team! You will be able to set a team name, tag, color, "
 "welcome message and invite players to your team. Teams expire after 20/40/60 "
@@ -666,398 +666,398 @@ msgid ""
 "can transfer ownership with /makeowner PlayerName with color code."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:128
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:128
 msgid ""
 "Create team\n"
 "${price} GC / ${amount} days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:129
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:129
 msgid ""
 "Save changes\n"
 "${price} GC"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:130
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:130
 msgid "Team Name"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:131
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:131
 msgid "Team Tag"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:132
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:132
 msgid "Team Color"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:133
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:133
 msgid "Don't show team invites"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:134
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:134
 msgid "/Invite player"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:135
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:135
 msgid "Kick player"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:136
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:231
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:136
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:231
 msgid "Leave team"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:137
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:137
 msgid "Welcome message"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:138
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:138
 msgid "Team"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:139
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:139
 msgid "Member"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:140
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:140
 msgid "Team Wars"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:141
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:145
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:141
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:145
 msgid "Select maps"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:142
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:142
 msgid "Select maps to be played in a Team War:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:143
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:143
 msgid "Add >"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:144
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:144
 msgid "< Remove"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:201
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:209
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:201
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:209
 msgid " (Owner) (${age}/${remain} days left"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:214
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:214
 msgid ""
 "Renew team\n"
 "${price} GC / ${amount} days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:236
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:236
 msgid ""
 "Buy team\n"
 "${price} GC / ${amount} days"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:250
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:250
 msgid "Rejoin team"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:283
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:283
 msgid "Team invite"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:285
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:288
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:285
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:288
 msgid "Invite"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/teams/teams_c.lua:286
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/teams/teams_c.lua:286
 msgid "Close"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:55
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:55
 msgid "Selling failed! You are either not logged in or don't have that skin!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:85
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:85
 msgid "Please select the skin you want to sell!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:95
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:95
 msgid "You can only sell skins once every ${cooldown} seconds!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:181
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:181
 msgctxt "Character model"
 msgid "Skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:182
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:182
 msgid "Buy skins"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:183
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:183
 msgid "Buy price: ${buyprice} GC | Sell price: ${sellprice} GC"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:184
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:184
 msgid "You can own multiple skins, but only use one."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:185
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:185
 msgid "Not enough GreenCoins or you already own this skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:186
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:186
 msgid "Please input a number"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:187
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:187
 msgid "Or not logged in"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:188
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:188
 msgid "Skin bought/sold successfully!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:189
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:189
 msgid "Preview skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:190
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:190
 msgid "Buy skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:191
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:191
 msgid "Sell skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:192
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:192
 msgid "Set primary skin"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:193
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:193
 msgid "Disable skins feature"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:202
-#: resources/[gameplay]/gcshop/skin/skins_client.lua:219
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:202
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/skin/skins_client.lua:219
 #, lua-format
 msgid "Your ID purchases so far: %s"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:69
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:69
 msgid "Maps-Center"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:70
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:70
 msgid "All Maps"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:71
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:71
 msgid "Queued Maps"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:73
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:83
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:73
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:83
 msgid "Map Name"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:74
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:74
 msgid "Author"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:75
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:75
 msgid "Price"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:76
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:76
 msgid "Resource Name"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:77
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:77
 msgid "Gamemode"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:79
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:79
 msgid "Buy selected map"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:80
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:80
 msgid "Refresh list"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:82
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:82
 msgid "Priority"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:85
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:85
 msgid "This is the Maps-Center. Here you can buy maps."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:86
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:86
 msgid "Select a map you like and click \"Buy selected map\""
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:87
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:87
 msgid ""
 "The map will be added to the Server Queue, where all bought maps are stored "
 "until they're played"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:88
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:88
 msgid ""
 "The winner of the last map played\n"
 "gets ${discount} % off!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:89
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:290
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:89
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:290
 msgid "Purchase VIP to get a free map every day!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:260
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:260
 msgid ""
 "Every map is ${discount}% off\n"
 "because you have won the last map!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:263
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:263
 msgid ""
 "The winner of the last map played\n"
 "gets ${discount}% off!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:276
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:276
 msgid "Your next map will be free! (VIP)"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/maps/maps_client.lua:280
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/maps/maps_client.lua:280
 msgid ""
 "You have used your free VIP map. \n"
 "You will get another one tomorrow! (00:00 CET)"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:572
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:572
 msgid "Custom Horns"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:573
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:573
 msgid "Buy Horns"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:574
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:574
 msgid "Available Horns"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:575
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:575
 msgid "My Horns"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:576
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:576
 msgctxt "Keyboard"
 msgid "Key"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:577
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:577
 msgid ""
 "Select a horn out of the list and press \"Buy\" to buy for regular usage or "
 "double-click to listen it."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:578
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:578
 msgid "Double-click to listen to a horn:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:579
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:579
 msgid ""
 "Horns can only be used 3 times per map (${cooldown} seconds cool-off). "
 "However, you can buy unlimited usage of the custom horn for ${price} GC. "
 "This item applies to all horns."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:580
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:580
 msgid "Double-click to bind horn to a key:"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:581
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:581
 msgid "(for gamepads)"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:582
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:582
 msgid ""
 "Buy selected horn\n"
 "Price: ${price} GC"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:583
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:583
 msgid ""
 "Unbind\n"
 "all horns"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:584
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:584
 msgid ""
 "Bind to a horn control name\n"
 "(Esc -> Settings -> Binds)"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:585
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:585
 msgid "Sell horn"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:586
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:844
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:586
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:844
 msgid ""
 "Buy unlimited usage\n"
 "Price: ${price} GC"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:587
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:587
 msgid "Horn Perks"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:597
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:634
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:675
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:699
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:597
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:634
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:675
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:699
 msgid "Select a horn first"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:608
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:608
 msgid "You can sell a horn once every 5 seconds!"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:703
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:703
 msgid "Binding a key to horn"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:704
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:704
 msgid "Press a key to bind or escape to clear"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:808
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:808
 msgid "Horn successfully bought"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:809
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:809
 msgid "getHornsData"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:811
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:811
 msgid ""
 "Either not logged in, not enough GreenCoins, or you already have this horn."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:819
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:819
 msgid "Horn successfully sold"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:822
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:822
 msgid "Either not logged in or you don't have this horn."
 msgstr ""
 
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:832
-#: resources/[gameplay]/gcshop/horns/horns_c.lua:1053
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:832
+#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/gcshop/horns/horns_c.lua:1053
 msgid ""
 "Buy unlimited usage\n"
 "Price: ${price} GC\n"
