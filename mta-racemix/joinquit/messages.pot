@@ -1,32 +1,32 @@
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/joinquit/joinquit_gi.lua:6
+#: resources/[gameplay]/joinquit/joinquit_gi.lua:6
 msgid "${oldNick}#FF6464 is now known as ${newNick}"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/joinquit/joinquit_server.lua:260
+#: resources/[gameplay]/joinquit/joinquit_server.lua:260
 msgid "unknown"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/joinquit/joinquit_server.lua:261
+#: resources/[gameplay]/joinquit/joinquit_server.lua:261
 msgid "quit"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/joinquit/joinquit_server.lua:262
+#: resources/[gameplay]/joinquit/joinquit_server.lua:262
 msgid "kicked"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/joinquit/joinquit_server.lua:263
+#: resources/[gameplay]/joinquit/joinquit_server.lua:263
 msgid "banned"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/joinquit/joinquit_server.lua:264
+#: resources/[gameplay]/joinquit/joinquit_server.lua:264
 msgid "bad connection"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/joinquit/joinquit_server.lua:265
+#: resources/[gameplay]/joinquit/joinquit_server.lua:265
 msgid "timed out"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/joinquit/joinquit_server.lua:273
+#: resources/[gameplay]/joinquit/joinquit_server.lua:273
 msgctxt "location"
 msgid "from"
 msgstr ""

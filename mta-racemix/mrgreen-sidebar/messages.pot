@@ -1,39 +1,39 @@
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:71
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:71
 msgid "Server Info"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:72
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:72
 msgid "My Account"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:73
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:73
 msgid "GC Shop"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:74
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:74
 msgid "Transfer GCs"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:75
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:75
 msgid "Achievements"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:76
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:76
 msgid "My Stats"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:77
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:77
 msgid "Settings"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:78
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:78
 msgid "Private Message"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:79
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:79
 msgid "Music Player"
 msgstr ""
 
-#: MrGreenGaming-MTA-Resources-ce43623/resources/[gameplay]/mrgreen-sidebar/sb_c.lua:80
+#: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:80
 msgid "Help"
 msgstr ""
