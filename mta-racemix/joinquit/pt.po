@@ -16,31 +16,37 @@ msgstr ""
 msgid "${oldNick}#FF6464 is now known as ${newNick}"
 msgstr ""
 
-#: resources/[gameplay]/joinquit/joinquit_server.lua:260
+#. translators: quit type: user has left the server (TYPE)
+#: resources/[gameplay]/joinquit/joinquit_server.lua:262
 msgid "unknown"
 msgstr ""
 
-#: resources/[gameplay]/joinquit/joinquit_server.lua:261
+#. translators: quit type: user has left the server (TYPE)
+#: resources/[gameplay]/joinquit/joinquit_server.lua:264
 msgid "quit"
 msgstr ""
 
-#: resources/[gameplay]/joinquit/joinquit_server.lua:262
+#. translators: quit type: user has left the server (TYPE)
+#: resources/[gameplay]/joinquit/joinquit_server.lua:266
 msgid "kicked"
 msgstr ""
 
-#: resources/[gameplay]/joinquit/joinquit_server.lua:263
+#. translators: quit type: user has left the server (TYPE)
+#: resources/[gameplay]/joinquit/joinquit_server.lua:268
 msgid "banned"
 msgstr ""
 
-#: resources/[gameplay]/joinquit/joinquit_server.lua:264
+#. translators: quit type: user has left the server (TYPE)
+#: resources/[gameplay]/joinquit/joinquit_server.lua:270
 msgid "bad connection"
 msgstr ""
 
-#: resources/[gameplay]/joinquit/joinquit_server.lua:265
+#. translators: quit type: user has left the server (TYPE)
+#: resources/[gameplay]/joinquit/joinquit_server.lua:272
 msgid "timed out"
 msgstr ""
 
-#: resources/[gameplay]/joinquit/joinquit_server.lua:273
+#: resources/[gameplay]/joinquit/joinquit_server.lua:280
 msgctxt "location"
 msgid "from"
 msgstr ""
