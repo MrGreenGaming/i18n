@@ -3,50 +3,52 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-27 23:37+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-08-28 01:23+0000\n"
+"Last-Translator: Weblate Admin <translate@mrgreengaming.com>\n"
+"Language-Team: Dutch <https://translate.mrgreengaming.com/projects/"
+"mta-racemix/joinquit/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2\n"
 
 #: resources/[gameplay]/joinquit/joinquit_gi.lua:6
 msgid "${oldNick}#FF6464 is now known as ${newNick}"
-msgstr ""
+msgstr "${oldNick}#FF6464 is nu bekend als ${newNick}"
 
 #. translators: quit type: user has left the server (TYPE)
 #: resources/[gameplay]/joinquit/joinquit_server.lua:262
 msgid "unknown"
-msgstr ""
+msgstr "onbekend"
 
 #. translators: quit type: user has left the server (TYPE)
 #: resources/[gameplay]/joinquit/joinquit_server.lua:264
 msgid "quit"
-msgstr ""
+msgstr "verlaten"
 
 #. translators: quit type: user has left the server (TYPE)
 #: resources/[gameplay]/joinquit/joinquit_server.lua:266
 msgid "kicked"
-msgstr ""
+msgstr "gekickt"
 
 #. translators: quit type: user has left the server (TYPE)
 #: resources/[gameplay]/joinquit/joinquit_server.lua:268
 msgid "banned"
-msgstr ""
+msgstr "verbannen"
 
 #. translators: quit type: user has left the server (TYPE)
 #: resources/[gameplay]/joinquit/joinquit_server.lua:270
 msgid "bad connection"
-msgstr ""
+msgstr "slechte verbinding"
 
 #. translators: quit type: user has left the server (TYPE)
 #: resources/[gameplay]/joinquit/joinquit_server.lua:272
 msgid "timed out"
-msgstr ""
+msgstr "getimed"
 
 #: resources/[gameplay]/joinquit/joinquit_server.lua:280
 msgctxt "location"
 msgid "from"
-msgstr ""
+msgstr "van"
