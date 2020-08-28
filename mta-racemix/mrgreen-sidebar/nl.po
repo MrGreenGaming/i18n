@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-28 02:34+0200\n"
-"PO-Revision-Date: 2020-08-28 01:23+0000\n"
+"PO-Revision-Date: 2020-08-29 02:26+0000\n"
 "Last-Translator: Weblate Admin <translate@mrgreengaming.com>\n"
 "Language-Team: Dutch <https://translate.mrgreengaming.com/projects/"
 "mta-racemix/mrgreen-sidebar/nl/>\n"
@@ -28,7 +28,7 @@ msgstr "GC Winkel"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:74
 msgid "Transfer GCs"
-msgstr "GC Overschrijven"
+msgstr "GCs Overdracht"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:75
 msgid "Achievements"
