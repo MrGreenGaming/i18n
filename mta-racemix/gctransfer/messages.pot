@@ -1,0 +1,40 @@
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:37
+msgid "Greencoin Transfer"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:38
+msgid "Name"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:39
+msgid "Amount:"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:40
+msgid "Select a player:"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:41
+msgid "Send"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:42
+msgctxt "GUI"
+msgid "Close"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:43
+msgid "Search:"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:44
+msgid "Show teammates only"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:66
+msgid "Select a player first!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_c.lua:74
+msgid "You need to enter a number as the amount!"
+msgstr ""
