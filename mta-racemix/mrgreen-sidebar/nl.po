@@ -3,51 +3,53 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-28 02:34+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-08-28 01:23+0000\n"
+"Last-Translator: Weblate Admin <translate@mrgreengaming.com>\n"
+"Language-Team: Dutch <https://translate.mrgreengaming.com/projects/"
+"mta-racemix/mrgreen-sidebar/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2\n"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:71
 msgid "Server Info"
-msgstr ""
+msgstr "Server Info"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:72
 msgid "My Account"
-msgstr ""
+msgstr "Mijn Acccount"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:73
 msgid "GC Shop"
-msgstr ""
+msgstr "GC Winkel"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:74
 msgid "Transfer GCs"
-msgstr ""
+msgstr "GC Overschrijven"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:75
 msgid "Achievements"
-msgstr ""
+msgstr "Prestaties"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:76
 msgid "My Stats"
-msgstr ""
+msgstr "Mijn Statistieken"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:77
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:78
 msgid "Private Message"
-msgstr ""
+msgstr "Privéberichten"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:79
 msgid "Music Player"
-msgstr ""
+msgstr "Muziekspeler"
 
 #: resources/[gameplay]/mrgreen-sidebar/sb_c.lua:80
 msgid "Help"
-msgstr ""
+msgstr "Help"
