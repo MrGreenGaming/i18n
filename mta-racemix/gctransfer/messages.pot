@@ -1,3 +1,58 @@
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:46
+msgid "${amount} GCs have been sent to your account by ${player} #00FF00!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:95
+msgid "You didn't enter a player name or amount!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:101
+msgid "You are not logged in!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:110
+msgid ""
+"You need to wait ${time} more second(s) to be able to transfer greencoins "
+"again!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:115
+msgid "The amount must be a whole number!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:120
+msgid "The amount must be between 1 and 10000!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:126
+msgid "Player could not be found!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:131
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:144
+msgid "You cannot send GCs to yourself!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:137
+msgid "The player you want to transfer GCs to is not logged in!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:152
+msgid "You must have a minimum of ${time} hours to transfer greencoins!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:161
+msgid "You don't have enough GCs!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:168
+msgid "An unknown error happened!"
+msgstr ""
+
+#: resources/[gameplay]/gctransfer/gctransfer_s.lua:172
+msgid "You have successfully sent ${amount} GCs to ${player} #00FF00!"
+msgstr ""
+
 #: resources/[gameplay]/gctransfer/gctransfer_c.lua:37
 msgid "Greencoin Transfer"
 msgstr ""

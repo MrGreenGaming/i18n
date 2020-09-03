@@ -1,0 +1,23 @@
+#: resources/[gameplay]/playerrecord/playerrecord.lua:12
+msgid ""
+"The current player record is ${peak} players and it's going to reset in "
+"${hours} days and ${minutes} minutes"
+msgstr ""
+
+#: resources/[gameplay]/playerrecord/playerrecord.lua:16
+msgid ""
+"The current player record is ${peak} players and it's going to reset in "
+"${days} days and ${hours} hours"
+msgstr ""
+
+#: resources/[gameplay]/playerrecord/playerrecord.lua:29
+msgid ""
+"We got a new player record of ${playerAmount} players! Giving everyone "
+"${gcAmount} GCs!"
+msgstr ""
+
+#: resources/[gameplay]/playerrecord/playerrecord.lua:96
+msgid ""
+"${days} days have passed since the last player record! Resetting the record "
+"and giving everyone ${reward} GCs!"
+msgstr ""

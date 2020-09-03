@@ -1,3 +1,17 @@
+#: resources/[gameplay]/gcshop/gcshop_s.lua:45
+msgid "You're not logged in to a Green-Coins account!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/gcshop_s.lua:48
+msgid ""
+"There's a problem with your Green-Coins account! Please /reconnect and try "
+"again"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/gcshop_s.lua:51
+msgid "You don't have enough Green-Coins to buy this!"
+msgstr ""
+
 #: resources/[gameplay]/gcshop/gcshop_c.lua:85
 msgid "GreenCoin"
 msgid_plural "GreenCoins"
@@ -195,6 +209,82 @@ msgstr ""
 msgid "Deadline color change"
 msgstr ""
 
+#: resources/[gameplay]/gcshop/items/items_s.lua:149
+msgid "GC: ${perk} has expired!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:187
+#: resources/[gameplay]/gcshop/items/items_s.lua:589
+#: resources/[gameplay]/gcshop/items/items_s.lua:685
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:81
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:751
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:49
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:144
+msgid "You're not logged in!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:190
+#: resources/[gameplay]/gcshop/items/items_s.lua:256
+msgid "Not a valid perk (use the correct name or ID)"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:193
+#: resources/[gameplay]/gcshop/items/items_s.lua:259
+msgid "Perk purchase has been disabled"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:208
+msgid "You already bought this perk: ${perk}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:213
+msgid "This perk requires another perk: ${perk}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:226
+msgid "Perk \"${perk}\" bought."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:235
+#: resources/[gameplay]/gcshop/items/items_s.lua:287
+msgid "An error occured, try reconnecting and notify an admin if you lost GC!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:253
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:43
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:134
+msgid "You're not logged into a Green-Coins account!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:262
+msgid "Not a valid amount (use a number)"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:275
+msgid "Extra perk \"${perk}\" bought."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:637
+msgid "You got flipped!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:689
+msgid "[GC] Use shift+3 to go back to a previous spawnpoint"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:801
+#: resources/[gameplay]/gcshop/items/items_s.lua:889
+msgid "Something went wrong, please try again!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/items_s.lua:802
+#: resources/[gameplay]/gcshop/items/items_s.lua:890
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:411
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:430
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:445
+msgid "You are not logged in!"
+msgstr ""
+
 #: resources/[gameplay]/gcshop/items/items_c.lua:27
 #: resources/[gameplay]/gcshop/items/items_c.lua:38
 #: resources/[gameplay]/gcshop/items/items_c.lua:70
@@ -359,6 +449,26 @@ msgstr ""
 msgid "Change your DeadLine color."
 msgstr ""
 
+#: resources/[gameplay]/gcshop/items/paintjob/paintjob_s.lua:169
+msgid ""
+"Custom paintjob image too big, please use a smaller image. (Maximum: ${size} "
+"MB)"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/paintjob/paintjob_s.lua:325
+msgid "Successfully uploaded new paintjob!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/paintjob/paintjob_s.lua:333
+msgid "Could not upload custom paintjob, please try again"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/paintjob/paintjob_s.lua:352
+msgid ""
+"Downloading paintjob failed, please check the URL or contact staff (ERROR: "
+"${error} )"
+msgstr ""
+
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:476
 msgid ""
 "Please use a different file extension. Only ${extensions} files are allowed"
@@ -372,8 +482,226 @@ msgstr ""
 msgid "Custom paintjob image ${file} is not a valid image"
 msgstr ""
 
-#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:228
-msgid "This upgrade is not added: ${model} + ${upgrade}"
+#: resources/[gameplay]/gcshop/items/trials/gctrials_s.lua:24
+msgid "GC Trials: Disabled flipping"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/trials/gctrials_s.lua:24
+msgid "GC Trials: Enabled flipping"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/burn/burn_s.lua:108
+msgid "You burned a little longer! "
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/burn/burn_s.lua:173
+#: resources/[gameplay]/gcshop/items/burn/burn_s.lua:174
+#: resources/[gameplay]/gcshop/items/burn/burn_s.lua:185
+#: resources/[gameplay]/gcshop/items/burn/burn_s.lua:186
+msgid "You have taken ${player}'s health!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/burn/burn_s.lua:176
+#: resources/[gameplay]/gcshop/items/burn/burn_s.lua:177
+msgid "${player} has given you his vehicle fire!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/burn/burn_s.lua:188
+#: resources/[gameplay]/gcshop/items/burn/burn_s.lua:189
+msgid "${player} has given you his vehicle fire! "
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/vehiclereroll/vehreroll_s.lua:106
+msgid "Maximum vehicle reroll per map reached (${max})"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/items/vehiclereroll/vehreroll_s.lua:123
+msgid "Reroll not allowed with this vehicle."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:46
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:137
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:754
+msgid "Not a valid vehicle (use the correct name or ID)"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:49
+msgid "You already bought this vehicle: ${model} (${id})"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:58
+msgid "Vehicle \"${model}\" (${id}) bought."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:67
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:102
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:94
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:132
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:185
+msgid "An error occured, try reconnecting and notify staff if you lost GC!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:84
+msgid "You already enabled the extra mods"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:94
+msgid "Modshop: enable extra mods bought."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:140
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:757
+msgid "You don't own this vehicle: ${model} (${id})"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:143
+msgid "Not a valid upgrade type"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:161
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:205
+msgid "Not a valid upgrade ID (use numbers)"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:163
+msgid "Nitro or hydraulics are not allowed"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:184
+msgid "Upgrade added to all your compatible vehicles"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:188
+msgid "Upgrade ${upgrade} isn't compatible with: ${vehicle}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:190
+msgid "This upgrade is already added: ${model} + ${id}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:193
+msgid "Vehicle \"${model}\": new upgrade ${id} ${isFailed}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:224
+msgid "Removed upgrade of all your vehicles"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:231
+msgid "Vehicle \"${model}\": removed upgrade ${upgrade} ${isFailed}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:245
+msgid ""
+"Wrong input, need a paintjob between 1 and 3 (0 = no paintjob) or ${amount} "
+"for custom paintjobs!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:247
+msgid "Wrong input, need a paintjob between 1 and 3 (0 = no paintjob)"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:254
+msgid "Vehicle \"${model}\": new custom paintjob # ${pj}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:257
+msgid "Vehicle \"${model}\": new paintjob # ${pj}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:260
+msgid "Vehicle \"${model}\": paintjob removed"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:265
+msgid "All your vehicles have a new custom paintjob #${paintjob}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:268
+msgid "All your vehicles have a new paintjob #${paintjob}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:271
+msgid "Paintjob removed from all your vehicles"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:296
+msgid "Wrong input, up to four colors between 0-255 are accepted"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:308
+msgid "Vehicle \"${vehicle}\" : colors removed"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:312
+msgid "Vehicle \"${model}\" has a new color: ${color}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:316
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:320
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:323
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:374
+msgid "Vehicle \"${model}\" has a new color scheme: ${color}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:347
+msgid "Wrong input, up to four RGB colors are accepted"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:363
+msgid "Vehicle \"${vehicle}\": colors removed"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:376
+msgid "All your vehicles have a new color scheme: ${color}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:399
+msgid "Vehicle \"${model}\": headlight colors removed"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:406
+msgid "Wrong input, need a rgb color (ex. \"155 155 0\")"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:412
+msgid "Vehicle \"${model}\" has new headlights: ${color}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:414
+msgid "All your vehicles have new headlights: ${color}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:426
+msgid "This vehicle doesn't support neon lights"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:428
+msgid "Wrong input, need a valid color (green, red, yellow, aqua, orange)"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:432
+msgid "Removed neon lights from ${vehicle}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:435
+msgid "Vehicle \"${model}\" has new neon lights: ${color}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:482
+msgid "This map has its own custom upgrades, modshop upgrades are disabled"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:762
+msgid "Not allowed to preview vehicles now!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:792
+msgid "Modding ${model} (${id})"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/modshop/modshop_s.lua:793
+msgid "Press enter to go back to racing!"
 msgstr ""
 
 #: resources/[gameplay]/gcshop/modshop/modshop_c.lua:17
@@ -649,6 +977,28 @@ msgstr ""
 msgid "Maximum amount of nickname slots reached (${max})"
 msgstr ""
 
+#: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:55
+msgid "Failed to lock name: ${nickname}."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:57
+msgid ""
+"${nickname} has succesfully been added to your locked names and is now "
+"protected."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:66
+msgid "${nickname} has succesfully been removed from your locked names."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:69
+msgid "Failed to unlock name: ${nickname}."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:154
+msgid "Please log in before buying this perk"
+msgstr ""
+
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:125
 msgctxt "GCshop Teams Tab"
 msgid "Teams"
@@ -774,6 +1124,126 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:52
+msgid ""
+"You were in a team less than ${days} days ago. Wait before creating another "
+"team"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:59
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:104
+msgid "Not a valid team name"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:62
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:107
+msgid "Not a valid team tag"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:65
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:110
+msgid "Not a valid team color"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:73
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:118
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:167
+msgid "Team name contains illegal characters!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:127
+msgid "Team \"${name}\" (${tag}) bought."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:147
+msgid "Only the owner of the team can update it!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:308
+msgid "Your ${days} days team has expired, go to the gcshop to renew it"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:386
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:464
+msgid "Could not find ${name}, please type the full nickname"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:388
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:466
+msgid "${player} is not logged in"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:391
+msgid "Only team owners can send invites!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:393
+msgid "${player} is already in your team"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:395
+msgid ""
+"${player} is or has been in a team less than ${days} days ago and can't join "
+"other teams"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:398
+msgid "You invited ${name}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:399
+msgid "${player} has sent you an invite to join his team: ${team}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:400
+msgid "Type /accept to join his team"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:409
+msgid "You are not invited to any teams"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:416
+msgid "You accepted the invite and joined team: ${team}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:418
+msgid "${player} accepted the invite"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:432
+msgid "You are not in a team"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:435
+msgid "You left your team"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:447
+msgid "You can' rejoin your team"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:450
+msgid "You rejoined your team"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:469
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:492
+msgid "Only team owners can do this!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:471
+msgid "${player} is not in your team"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:477
+msgid "${owner} made ${newOwner} the new team owner"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/teams/teams_s.lua:498
+msgid "${player} kicked ${kickedPlayer} from the team"
+msgstr ""
+
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:55
 msgid "Selling failed! You are either not logged in or don't have that skin!"
 msgstr ""
@@ -843,6 +1313,57 @@ msgstr ""
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:219
 #, lua-format
 msgid "Your ID purchases so far: %s"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/skin/skins_server.lua:206
+#: resources/[gameplay]/gcshop/skin/skins_server.lua:281
+#: resources/[gameplay]/gcshop/horns/horns_s.lua:188
+msgid "You are not logged in"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/skin/skins_server.lua:215
+#: resources/[gameplay]/gcshop/skin/skins_server.lua:233
+msgid "You do not own this skin."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/skin/skins_server.lua:222
+msgid "Success in changing skin."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/skin/skins_server.lua:229
+msgid "You already have this skin set"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/skin/skins_server.lua:293
+msgid "Success in removing skin. Changes will be seen nextmap"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/maps/maps_server.lua:144
+msgid "You do not have enough GCs to buy a nextmap. Current price: ${price}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/maps/maps_server.lua:147
+msgid ""
+"Error. You can only queue one map, you're not logged in or the map was "
+"deleted"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/maps/maps_server.lua:176
+msgid ""
+"This map has recently been bought and is still on cooldown (${remain} "
+"remaining), please choose another map or wait."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/maps/maps_server.lua:227
+msgid "Your next map current queue number: ${num}"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/maps/maps_server.lua:456
+msgid "ERROR: Mr. Green maps top 100 already running."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/maps/maps_server.lua:543
+msgid "All maps removed from map queue."
 msgstr ""
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:69
@@ -1062,4 +1583,28 @@ msgid ""
 "Buy unlimited usage\n"
 "Price: ${price} GC\n"
 "Bought!"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/horns/horns_s.lua:108
+msgid "Please buy the horn (${hornName}) before using it"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/horns/horns_s.lua:124
+msgid "Something went wrong"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/horns/horns_s.lua:166
+msgid "You already have unlimited horn usage."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/horns/horns_s.lua:174
+msgid "You have bought unlimited horn usage for 5000 GC."
+msgstr ""
+
+#: resources/[gameplay]/gcshop/horns/horns_s.lua:179
+msgid "You do not have enough GreenCoins"
+msgstr ""
+
+#: resources/[gameplay]/gcshop/horns/horns_s.lua:183
+msgid "You have no horns bought."
 msgstr ""
