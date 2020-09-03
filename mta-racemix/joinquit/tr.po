@@ -50,3 +50,23 @@ msgstr ""
 msgctxt "location"
 msgid "from"
 msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:286
+msgid "Joined: ${player} #FF6464${country} joined the server ${fromRedirect}"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:319
+msgid "Quit: ${player}#FF6464 has been ${kickBan} %{reason}"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:325
+msgid "switched to ${servername} server"
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:329
+msgid "Quit: ${player}#FF6464 left the server."
+msgstr ""
+
+#: resources/[gameplay]/joinquit/joinquit_server.lua:331
+msgid "Quit: ${player}#FF6464 ${quitReason}"
+msgstr ""
