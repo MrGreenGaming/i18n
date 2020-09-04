@@ -3,104 +3,110 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-04 17:04+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-09-04 18:04+0000\n"
+"Last-Translator: Weblate Admin <translate@mrgreengaming.com>\n"
+"Language-Team: Dutch <https://translate.mrgreengaming.com/projects/"
+"mta-racemix/gus/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2\n"
 
 #: resources/[gameplay]/gus/gus_s.lua:40
 msgid ""
 "You have been automatically logged in to #FFFFFF${user}'s#00FF00 account!"
-msgstr ""
+msgstr "Je bent automatisch ingelogd op #FFFFFF${user}'s#00FF00 account!"
 
 #: resources/[gameplay]/gus/gus_s.lua:41
 msgid "To disable AutoLogin, use /autologin!"
-msgstr ""
+msgstr "Gebruik /autologin om AutoLogin uit te schakelen!"
 
 #: resources/[gameplay]/gus/gus_s.lua:43
 msgid "/autologin: wrong login/password"
-msgstr ""
+msgstr "/autologin: verkeerde login/wachtwoord"
 
 #: resources/[gameplay]/gus/gus_s.lua:73
 msgctxt "player state / afk"
 msgid "away"
-msgstr ""
+msgstr "afwezig"
 
 #: resources/[gameplay]/gus/gus_s.lua:105
 msgid "No admins online at the moment."
-msgstr ""
+msgstr "Geen admins online op dit moment."
 
 #: resources/[gameplay]/gus/gus_s.lua:115
 msgid "Online admins: ${list}"
-msgstr ""
+msgstr "Online admins: ${list}"
 
 #: resources/[gameplay]/gus/gus_s.lua:119
 msgid "No moderators online at the moment."
-msgstr ""
+msgstr "Geen moderatoren online op dit moment."
 
 #: resources/[gameplay]/gus/gus_s.lua:129
 msgid "Online moderators: ${list}"
-msgstr ""
+msgstr "Online moderatoren: ${list}"
 
 #: resources/[gameplay]/gus/gus_s.lua:133
 msgid "Online admin applicants: ${list}"
-msgstr ""
+msgstr "Online admin kandidaten: ${list}"
 
 #: resources/[gameplay]/gus/gus_s.lua:173
 msgid "'${map}' has been created by '${author}'"
-msgstr ""
+msgstr "${map}' is gemaakt door '${author}'"
 
 #: resources/[gameplay]/gus/gus_s.lua:179
 msgid "Upload your maps at: ${url}"
-msgstr ""
+msgstr "Upload jouw maps bij: ${url}"
 
 #: resources/[gameplay]/gus/gus_s.lua:187
 msgid ""
 "Join our Discord! If you need admin support, join the server and ask for an "
 "admin"
 msgstr ""
+"Sluit je aan bij onze Discord! Als je admin-support nodig hebt, word dan lid "
+"van de server en vraag om een admin"
 
 #: resources/[gameplay]/gus/gus_s.lua:188
 msgid "Discord invite: ${url}"
-msgstr ""
+msgstr "Discord uitnodiging: ${url}"
 
 #: resources/[gameplay]/gus/gus_s.lua:196
 msgid "Use /msg [nick] [text]"
-msgstr ""
+msgstr "Gebruik /msg [naam] [tekst]"
 
 #: resources/[gameplay]/gus/gus_s.lua:208
 msgid "${player}#FFD700 is laughing out loud."
-msgstr ""
+msgstr "${player}#FFD700 is hardop aan het lachen."
 
 #: resources/[gameplay]/gus/gus_s.lua:214
 msgid "No player found"
-msgstr ""
+msgstr "Geen speler gevonden"
 
 #: resources/[gameplay]/gus/gus_s.lua:218
 msgid "${player1}#FFD700 is laughing out loud at ${player2}"
-msgstr ""
+msgstr "${player1}#FFD700 is hardop aan het lachen om ${player2}"
 
 #: resources/[gameplay]/gus/gus_s.lua:243
 msgid ""
 "If this map has a song, it has been downloaded into your computer. You can "
 "find it in:"
 msgstr ""
+"Als dit map een liedje heeft, is het in jouw computer gedownload. Je kunt "
+"het vinden in:"
 
 #: resources/[gameplay]/gus/gus_s.lua:253
 msgid "The correct command is /gclogin, do not misspell it"
-msgstr ""
+msgstr "Het juiste commando is /gclogin, niet verkeerd spellen"
 
 #: resources/[gameplay]/gus/gus_s.lua:325
 msgid "Currently playing round:"
-msgstr ""
+msgstr "Momenteel speelt ronde:"
 
 #: resources/[gameplay]/gus/gus_s.lua:345
 msgid "/me messages are disabled in this server"
-msgstr ""
+msgstr "/me berichten zijn uitgeschakeld in deze server"
 
 #: resources/[gameplay]/gus/gus_s.lua:448
 #: resources/[gameplay]/gus/gus_s.lua:474
@@ -108,136 +114,142 @@ msgid ""
 "${player} #00ff00has made a streak! (#FFFFFFX${streak}#00ff00) (earned "
 "${reward}GC)"
 msgstr ""
+"${player} #00ff00heeft een streak gemaakt! ((#FFFFFFX${streak}#00ff00) ("
+"beloning ${reward}GC)"
 
 #: resources/[gameplay]/gus/gus_c.lua:14
 msgid "Free camera movement is now enabled"
-msgstr ""
+msgstr "Vrije camerabeweging is nu ingeschakeld"
 
 #: resources/[gameplay]/gus/gus_c.lua:21
 msgid "Free camera movement is now disabled"
-msgstr ""
+msgstr "Vrije camerabeweging is nu uitgeschakeld"
 
 #: resources/[gameplay]/gus/gus_c.lua:97 resources/[gameplay]/gus/gus_c.lua:99
 msgid "Taskbar flashing on map change was #ff0000${action}"
-msgstr ""
+msgstr "Taakbalk knipperen op map verandering is #ff0000${action}"
 
 #: resources/[gameplay]/gus/gus_c.lua:136
 msgid "${mapname} just started. (${nextmap})."
-msgstr ""
+msgstr "${mapname} net begonnen. (${nextmap})."
 
 #: resources/[gameplay]/gus/gus_c.lua:228
 msgid "Daylight enabled. "
-msgstr ""
+msgstr "Daglicht ingeschakeld. "
 
 #: resources/[gameplay]/gus/gus_c.lua:228
 msgid "It will only be applied in allowed modes."
-msgstr ""
+msgstr "Het zal alleen worden toegepast in toegestane modi."
 
 #: resources/[gameplay]/gus/gus_c.lua:234
 msgid "Daylight disabled."
-msgstr ""
+msgstr "Daglicht uitgeschakeld."
 
 #: resources/[gameplay]/gus/nicks.lua:11 resources/[gameplay]/gus/nicks.lua:32
 msgid "Please use an other nickname then \"Player\""
-msgstr ""
+msgstr "Gebruik een andere bijnaam dan \"Player\""
 
 #: resources/[gameplay]/gus/nicks.lua:13
 msgid "Your nickname was already in use, changed to random one"
-msgstr ""
+msgstr "Jouw bijnaam is al in gebruik, veranderd in een willekeurige naam"
 
 #: resources/[gameplay]/gus/nicks.lua:15 resources/[gameplay]/gus/nicks.lua:38
 msgid ""
 "Your nickname is using multiple colour codes, which causes bugs. Please "
 "change"
 msgstr ""
+"Je bijnaam is het gebruik van meerdere kleurcodes, wat bugs veroorzaakt. "
+"Verander a.u.b"
 
 #: resources/[gameplay]/gus/nicks.lua:17 resources/[gameplay]/gus/nicks.lua:22
 #: resources/[gameplay]/gus/nicks.lua:40
 msgid "Please use a nickname longer then 2 characters"
-msgstr ""
+msgstr "Gebruik a.u.b. een bijnaam die langer is dan 2 tekens"
 
 #: resources/[gameplay]/gus/nicks.lua:34
 msgid "This nickname is already in use"
-msgstr ""
+msgstr "Deze bijnaam is al in gebruik"
 
 #: resources/[gameplay]/gus/nicks.lua:36
 msgid "You can't change your nick while you are muted"
-msgstr ""
+msgstr "Je kunt je bijnaam niet veranderen als je gedempt bent"
 
 #: resources/[gameplay]/gus/ktypestatus_cl.lua:91
 msgctxt "Toggled on/off"
 msgid "on"
-msgstr ""
+msgstr "aan"
 
 #: resources/[gameplay]/gus/ktypestatus_cl.lua:92
 msgctxt "Toggled on/off"
 msgid "off"
-msgstr ""
+msgstr "uit"
 
 #: resources/[gameplay]/gus/ktypestatus_cl.lua:99
 msgid "Chat icons are turned ${onOff}"
-msgstr ""
+msgstr "Chat-iconen zijn nu ${onOff}"
 
 #: resources/[gameplay]/gus/ktypestatus_cl.lua:108
 msgid "Chat icons are ${scale}% from normal size"
-msgstr ""
+msgstr "Chat-iconen zijn ${scale}% van normale grootte"
 
 #: resources/[gameplay]/gus/ktypestatus_cl.lua:115
 msgid "Chat icons are ${opacity}% visible"
-msgstr ""
+msgstr "Chat-iconen zijn${opacity}% zichtbaar"
 
 #: resources/[gameplay]/gus/admin.lua:161
 msgid "${killer} has killed ${victim}. Reason: ${reason}"
-msgstr ""
+msgstr "${killer} heeft ${victim} gedood. Reden: ${reason}"
 
 #: resources/[gameplay]/gus/admin.lua:212
 msgid "${victim} has been banned by ${admin}"
-msgstr ""
+msgstr "${victim} is verbannen door ${admin}"
 
 #: resources/[gameplay]/gus/admin.lua:230
 msgid "Chatbox has been disabled by ${admin}!"
-msgstr ""
+msgstr "Chatbox is uitgeschakeld door ${admin}!"
 
 #: resources/[gameplay]/gus/admin.lua:242
 msgid "Chatbox has been cleared by ${admin}!"
-msgstr ""
+msgstr "Chatbox is leeggemaakt door ${admin}!"
 
 #: resources/[gameplay]/gus/admin.lua:254
 msgid "Chatbox enabled again by ${admin}!"
-msgstr ""
+msgstr "Chatbox weer ingeschakeld door ${admin}!"
 
 #: resources/[gameplay]/gus/admin.lua:264
 msgid "Chatbox is currently disabled."
-msgstr ""
+msgstr "Chatbox is momenteel uitgeschakeld."
 
 #: resources/[gameplay]/gus/admin.lua:278
 msgid "Chatbox is enabled again!"
-msgstr ""
+msgstr "Chatbox is weer ingeschakeld!"
 
 #: resources/[gameplay]/gus/blocker.lua:33
 msgid "${admin} has marked ${victim} as a blocker."
-msgstr ""
+msgstr "${admin} heeft ${victim} gemarkeerd als een blocker."
 
 #: resources/[gameplay]/gus/blocker.lua:49
 #: resources/[gameplay]/gus/blocker.lua:76
 msgid "${admin} has unmarked ${victim} as a blocker."
-msgstr ""
+msgstr "${admin} heeft ${victim} ongemarkeerd als blocker."
 
 #: resources/[gameplay]/gus/blocker.lua:145
 msgid "No blockers online at the moment!"
-msgstr ""
+msgstr "Geen blockers online op dit moment!"
 
 #: resources/[gameplay]/gus/blocker.lua:181
 msgid ""
 "You have been marked as a blocker by ${admin}, you will be unmarked in "
 "${time}"
 msgstr ""
+"Je bent gemarkeerd als een blocker door ${admin}, je zal ongemarkeerd zijn "
+"in ${time}"
 
 #: resources/[gameplay]/gus/blocker.lua:222
 msgid "You are no longer marked as a blocker."
-msgstr ""
+msgstr "Je bent niet langer gemarkeerd als blocker."
 
 #: resources/[gameplay]/gus/blocker_c.lua:1
 #: resources/[gameplay]/gus/blocker_c.lua:2
 msgid "You are marked as a blocker for: ${time}"
-msgstr ""
+msgstr "Je bent gemarkeerd als een blocker voor: ${time}"
