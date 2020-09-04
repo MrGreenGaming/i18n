@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-10 11:05+0200\n"
-"PO-Revision-Date: 2020-08-27 21:38+0000\n"
+"PO-Revision-Date: 2020-09-04 12:56+0000\n"
 "Last-Translator: Weblate Admin <translate@mrgreengaming.com>\n"
-"Language-Team: Dutch <https://translate.mrgreengaming.com/projects/mta-"
-"racemix/gcshop/nl/>\n"
+"Language-Team: Dutch <https://translate.mrgreengaming.com/projects/"
+"mta-racemix/gcshop/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,19 +16,19 @@ msgstr ""
 
 #: resources/[gameplay]/gcshop/gcshop_s.lua:45
 msgid "You're not logged in to a Green-Coins account!"
-msgstr ""
+msgstr "Je bent niet ingelogd op een Green-Coins account!"
 
 #: resources/[gameplay]/gcshop/gcshop_s.lua:48
 msgid ""
 "There's a problem with your Green-Coins account! Please /reconnect and try "
 "again"
 msgstr ""
+"Er is een probleem met jouw Green-Coins account! Gebruik /reconnect en "
+"probeer het opnieuw"
 
 #: resources/[gameplay]/gcshop/gcshop_s.lua:51
-#, fuzzy
-#| msgid "Not enough GreenCoins or you already own this skin"
 msgid "You don't have enough Green-Coins to buy this!"
-msgstr "Niet genoeg GreenCoins of je hebt deze skin al in jouw bezit"
+msgstr "Je hebt niet genoeg Green-Coins om dit te kopen!"
 
 #: resources/[gameplay]/gcshop/gcshop_c.lua:85
 msgid "GreenCoin"
@@ -281,7 +281,7 @@ msgstr "Deadline kleur veranderen"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:149
 msgid "GC: ${perk} has expired!"
-msgstr ""
+msgstr "GC: ${perk} is verlopen!"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:187
 #: resources/[gameplay]/gcshop/items/items_s.lua:589
@@ -290,74 +290,72 @@ msgstr ""
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:751
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:49
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:144
-#, fuzzy
-#| msgid "Or not logged in"
 msgid "You're not logged in!"
-msgstr "Of niet ingelogd"
+msgstr "Je bent niet ingelogd!"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:190
 #: resources/[gameplay]/gcshop/items/items_s.lua:256
 msgid "Not a valid perk (use the correct name or ID)"
-msgstr ""
+msgstr "Geen geldige perk (gebruik de juiste naam of ID)"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:193
 #: resources/[gameplay]/gcshop/items/items_s.lua:259
 msgid "Perk purchase has been disabled"
-msgstr ""
+msgstr "Perk aankoop is uitgeschakeld"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:208
 msgid "You already bought this perk: ${perk}"
-msgstr ""
+msgstr "Je hebt deze perk al gekocht: ${perk}"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:213
 msgid "This perk requires another perk: ${perk}"
-msgstr ""
+msgstr "Deze perk vereist een andere perk: ${perk}"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:226
 msgid "Perk \"${perk}\" bought."
-msgstr ""
+msgstr "Perk \"${perk}\" gekocht."
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:235
 #: resources/[gameplay]/gcshop/items/items_s.lua:287
 msgid "An error occured, try reconnecting and notify an admin if you lost GC!"
 msgstr ""
+"Er is een fout opgetreden, probeer opnieuw verbinding te maken en breng een "
+"admin op de hoogte als je GC bent kwijtgeraakt!"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:253
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:43
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:134
 msgid "You're not logged into a Green-Coins account!"
-msgstr ""
+msgstr "Je bent niet ingelogd op een Green-Coins account!"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:262
 msgid "Not a valid amount (use a number)"
-msgstr ""
+msgstr "Geen geldig aantal (gebruik een getal)"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:275
 msgid "Extra perk \"${perk}\" bought."
-msgstr ""
+msgstr "Extra perk \"${perk}\" gekocht."
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:637
 msgid "You got flipped!"
-msgstr ""
+msgstr "Je bent omgedraaid!"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:689
 msgid "[GC] Use shift+3 to go back to a previous spawnpoint"
-msgstr ""
+msgstr "[GC] Gebruik shift+3 om terug te gaan naar een vorig spawn-punt"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:801
 #: resources/[gameplay]/gcshop/items/items_s.lua:889
 msgid "Something went wrong, please try again!"
-msgstr ""
+msgstr "Er is iets misgegaan, probeer het nog eens!"
 
 #: resources/[gameplay]/gcshop/items/items_s.lua:802
 #: resources/[gameplay]/gcshop/items/items_s.lua:890
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:411
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:430
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:445
-#, fuzzy
-#| msgid "Or not logged in"
 msgid "You are not logged in!"
-msgstr "Of niet ingelogd"
+msgstr "Je bent niet ingelogd!"
 
 #: resources/[gameplay]/gcshop/items/items_c.lua:27
 #: resources/[gameplay]/gcshop/items/items_c.lua:38
@@ -565,20 +563,24 @@ msgid ""
 "Custom paintjob image too big, please use a smaller image. (Maximum: ${size} "
 "MB)"
 msgstr ""
+"Custom paintjob te groot, gebruik een kleinere afbeelding. (Maximaal: ${size}"
+" MB)"
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_s.lua:325
 msgid "Successfully uploaded new paintjob!"
-msgstr ""
+msgstr "Succesvol nieuwe paintjob geupload!"
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_s.lua:333
 msgid "Could not upload custom paintjob, please try again"
-msgstr ""
+msgstr "Kon geen custom paintjob uploaden, probeer het nog eens"
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_s.lua:352
 msgid ""
 "Downloading paintjob failed, please check the URL or contact staff (ERROR: "
 "${error} )"
 msgstr ""
+"Het downloaden van de paintjob is mislukt, controleer de URL of neem contact "
+"op met het de staff (ERROR: ${error} )"
 
 #: resources/[gameplay]/gcshop/items/paintjob/paintjob_c.lua:476
 msgid ""
@@ -597,56 +599,54 @@ msgstr "Custom paintjob afbeelding ${file} is geen geldige afbeelding"
 
 #: resources/[gameplay]/gcshop/items/trials/gctrials_s.lua:24
 msgid "GC Trials: Disabled flipping"
-msgstr ""
+msgstr "GC Trails: Omdraaien uitgeschakeld"
 
 #: resources/[gameplay]/gcshop/items/trials/gctrials_s.lua:24
 msgid "GC Trials: Enabled flipping"
-msgstr ""
+msgstr "GC Trails: Omdraaien ingeschakeld"
 
 #: resources/[gameplay]/gcshop/items/burn/burn_s.lua:108
 msgid "You burned a little longer! "
-msgstr ""
+msgstr "Je hebt iets langer gebrand! "
 
 #: resources/[gameplay]/gcshop/items/burn/burn_s.lua:173
 #: resources/[gameplay]/gcshop/items/burn/burn_s.lua:174
 #: resources/[gameplay]/gcshop/items/burn/burn_s.lua:185
 #: resources/[gameplay]/gcshop/items/burn/burn_s.lua:186
 msgid "You have taken ${player}'s health!"
-msgstr ""
+msgstr "Je hebt de gezondheid van ${player} genomen!"
 
 #: resources/[gameplay]/gcshop/items/burn/burn_s.lua:176
 #: resources/[gameplay]/gcshop/items/burn/burn_s.lua:177
 msgid "${player} has given you his vehicle fire!"
-msgstr ""
+msgstr "${player} heeft je zijn voertuigbrand gegeven!"
 
 #: resources/[gameplay]/gcshop/items/burn/burn_s.lua:188
 #: resources/[gameplay]/gcshop/items/burn/burn_s.lua:189
 msgid "${player} has given you his vehicle fire! "
-msgstr ""
+msgstr "${player} heeft je zijn voertuigbrand gegeven! "
 
 #: resources/[gameplay]/gcshop/items/vehiclereroll/vehreroll_s.lua:106
-#, fuzzy
-#| msgid "Maximum amount of nickname slots reached (${max})"
 msgid "Maximum vehicle reroll per map reached (${max})"
-msgstr "Maximaal aantal vergrendelde namen bereikt (${max})"
+msgstr "Maximale voertuig reroll per map bereikt (${max})"
 
 #: resources/[gameplay]/gcshop/items/vehiclereroll/vehreroll_s.lua:123
 msgid "Reroll not allowed with this vehicle."
-msgstr ""
+msgstr "Reroll niet toegestaan met dit voertuig."
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:46
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:137
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:754
 msgid "Not a valid vehicle (use the correct name or ID)"
-msgstr ""
+msgstr "Geen geldig voertuig (gebruik de juiste naam of ID)"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:49
 msgid "You already bought this vehicle: ${model} (${id})"
-msgstr ""
+msgstr "Je hebt dit voertuig al gekocht: ${model} (${id})"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:58
 msgid "Vehicle \"${model}\" (${id}) bought."
-msgstr ""
+msgstr "Voertuig \"${model}\" (${id}) gekocht."
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:67
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:102
@@ -655,110 +655,107 @@ msgstr ""
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:185
 msgid "An error occured, try reconnecting and notify staff if you lost GC!"
 msgstr ""
+"Er is een fout opgetreden, probeer opnieuw verbinding te maken en stel de "
+"staff op de hoogte als je GC bent kwijtgeraakt!"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:84
-#, fuzzy
-#| msgid "Enable extra mods!"
 msgid "You already enabled the extra mods"
-msgstr "Schakel extra modificaties in!"
+msgstr "Je hebt de extra mods al ingeschakeld"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:94
-#, fuzzy
-#| msgid "Enable extra mods!"
 msgid "Modshop: enable extra mods bought."
-msgstr "Schakel extra modificaties in!"
+msgstr "Modshop: schakel extra mods in gekocht."
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:140
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:757
 msgid "You don't own this vehicle: ${model} (${id})"
-msgstr ""
+msgstr "Je bent niet de eigenaar van dit voertuig: ${model} (${id})"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:143
 msgid "Not a valid upgrade type"
-msgstr ""
+msgstr "Geen geldige upgrade type"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:161
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:205
 msgid "Not a valid upgrade ID (use numbers)"
-msgstr ""
+msgstr "Geen geldig upgrade-ID (gebruik nummers)"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:163
 msgid "Nitro or hydraulics are not allowed"
-msgstr ""
+msgstr "Nitro of hydrauliek zijn niet toegestaan"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:184
 msgid "Upgrade added to all your compatible vehicles"
-msgstr ""
+msgstr "Upgrade toegevoegd aan al jouw compatibele voertuigen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:188
 msgid "Upgrade ${upgrade} isn't compatible with: ${vehicle}"
-msgstr ""
+msgstr "Upgrade ${upgrade} is niet compatibel met: ${vehicle}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:190
-#, fuzzy
-#| msgid "This upgrade is not added: ${model} + ${upgrade}"
 msgid "This upgrade is already added: ${model} + ${id}"
-msgstr "Deze upgrade is niet toegevoegd: ${model} + ${upgrade}"
+msgstr "Deze upgrade is al toegevoegd: ${model} + ${id}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:193
 msgid "Vehicle \"${model}\": new upgrade ${id} ${isFailed}"
-msgstr ""
+msgstr "Voertuig \"${model}\": nieuwe upgrade ${id} ${isFailed}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:224
-#, fuzzy
-#| msgid "Remove upgrade for all"
 msgid "Removed upgrade of all your vehicles"
-msgstr "Upgrade verwijderen voor alles"
+msgstr "Upgrade verwijderen voor alle voertuigen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:231
 msgid "Vehicle \"${model}\": removed upgrade ${upgrade} ${isFailed}"
-msgstr ""
+msgstr "Voertuig \"${model}\": upgrade verwijderd ${upgrade} ${isFailed}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:245
 msgid ""
 "Wrong input, need a paintjob between 1 and 3 (0 = no paintjob) or ${amount} "
 "for custom paintjobs!"
 msgstr ""
+"Verkeerde opgave, vereist een paintjob tussen 1 en 3 (0 = geen paintjob) of "
+"${amount} voor aangepaste paintjobs!"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:247
 msgid "Wrong input, need a paintjob between 1 and 3 (0 = no paintjob)"
 msgstr ""
+"Verkeerde opgave, vereist een paintjob tussen 1 en 3 (0 = geen paintjob)"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:254
 msgid "Vehicle \"${model}\": new custom paintjob # ${pj}"
-msgstr ""
+msgstr "Voertuig \"${model}\": nieuwe aangepaste paintjob # ${pj}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:257
 msgid "Vehicle \"${model}\": new paintjob # ${pj}"
-msgstr ""
+msgstr "Voertuig \"${model}\": nieuwe paintjob # ${pj}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:260
 msgid "Vehicle \"${model}\": paintjob removed"
-msgstr ""
+msgstr "Voertuig \"${model}\": paintjob verwijderd"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:265
 msgid "All your vehicles have a new custom paintjob #${paintjob}"
-msgstr ""
+msgstr "Al jouw voertuigen hebben een nieuwe aangepaste paintjob #${paintjob}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:268
 msgid "All your vehicles have a new paintjob #${paintjob}"
-msgstr ""
+msgstr "Al jouw voertuigen hebben een nieuwe paintjob #${paintjob}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:271
 msgid "Paintjob removed from all your vehicles"
-msgstr ""
+msgstr "Paintjob verwijderd van al jouw voertuigen"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:296
 msgid "Wrong input, up to four colors between 0-255 are accepted"
-msgstr ""
+msgstr "Verkeerde invoer, tot vier kleuren tussen 0-255 worden geaccepteerd"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:308
 msgid "Vehicle \"${vehicle}\" : colors removed"
-msgstr ""
+msgstr "Voertuig \"${vehicle}\" : kleuren verwijderd"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:312
 msgid "Vehicle \"${model}\" has a new color: ${color}"
-msgstr ""
+msgstr "Voertuig \"${model}\" heeft een nieuwe kleur: ${color}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:316
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:320
@@ -1339,10 +1336,8 @@ msgstr ""
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:388
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:466
-#, fuzzy
-#| msgid "Or not logged in"
 msgid "${player} is not logged in"
-msgstr "Of niet ingelogd"
+msgstr "${player} is niet ingelogd"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:391
 msgid "Only team owners can send invites!"
@@ -1789,10 +1784,8 @@ msgstr ""
 "Gekocht!"
 
 #: resources/[gameplay]/gcshop/horns/horns_s.lua:108
-#, fuzzy
-#| msgid "Please select a name before removing it"
 msgid "Please buy the horn (${hornName}) before using it"
-msgstr "Selecteer een naam voordat je deze verwijdert"
+msgstr "Koop de claxon (${hornName}) voordat je hem gebruikt"
 
 #: resources/[gameplay]/gcshop/horns/horns_s.lua:124
 msgid "Something went wrong"
