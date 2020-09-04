@@ -1,0 +1,47 @@
+#: resources/[gameplay]/mapratings/mapratings_sql.lua:26
+msgid "You already disliked this map"
+msgstr ""
+
+#: resources/[gameplay]/mapratings/mapratings_sql.lua:28
+msgid "You already liked this map"
+msgstr ""
+
+#: resources/[gameplay]/mapratings/mapratings_sql.lua:32
+msgid "Changed from dislike to like."
+msgstr ""
+
+#: resources/[gameplay]/mapratings/mapratings_sql.lua:34
+msgid "Changed from like to dislike."
+msgstr ""
+
+#: resources/[gameplay]/mapratings/mapratings_sql.lua:40
+msgid "You liked the map: ${mapname}"
+msgstr ""
+
+#: resources/[gameplay]/mapratings/mapratings_sql.lua:42
+msgid "You disliked the map: ${mapname}"
+msgstr ""
+
+#: resources/[gameplay]/mapratings/client.lua:11
+msgid "Likes:"
+msgstr ""
+
+#: resources/[gameplay]/mapratings/client.lua:12
+msgid "Dislikes:"
+msgstr ""
+
+#: resources/[gameplay]/mapratings/client.lua:13
+msgid "Author:"
+msgstr ""
+
+#: resources/[gameplay]/mapratings/client.lua:14
+msgid "Times played:"
+msgstr ""
+
+#: resources/[gameplay]/mapratings/client.lua:15
+msgid "Last time played:"
+msgstr ""
+
+#: resources/[gameplay]/mapratings/client.lua:16
+msgid "Description:"
+msgstr ""
