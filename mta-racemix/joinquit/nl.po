@@ -3,10 +3,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-27 23:37+0200\n"
-"PO-Revision-Date: 2020-08-28 01:23+0000\n"
+"PO-Revision-Date: 2020-09-04 14:30+0000\n"
 "Last-Translator: Weblate Admin <translate@mrgreengaming.com>\n"
-"Language-Team: Dutch <https://translate.mrgreengaming.com/projects/mta-"
-"racemix/joinquit/nl/>\n"
+"Language-Team: Dutch <https://translate.mrgreengaming.com/projects/"
+"mta-racemix/joinquit/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,19 +56,21 @@ msgstr "van"
 #: resources/[gameplay]/joinquit/joinquit_server.lua:286
 msgid "Joined: ${player} #FF6464${country} joined the server ${fromRedirect}"
 msgstr ""
+"Verbonden: ${player} #FF6464${country} is bij de server gekomen "
+"${fromRedirect}"
 
 #: resources/[gameplay]/joinquit/joinquit_server.lua:319
 msgid "Quit: ${player}#FF6464 has been ${kickBan} %{reason}"
-msgstr ""
+msgstr "Verlaten: ${player}#FF6464 is ${kickBan} %{reason}"
 
 #: resources/[gameplay]/joinquit/joinquit_server.lua:325
 msgid "switched to ${servername} server"
-msgstr ""
+msgstr "overgegaan naar ${servername} server"
 
 #: resources/[gameplay]/joinquit/joinquit_server.lua:329
 msgid "Quit: ${player}#FF6464 left the server."
-msgstr ""
+msgstr "Verlaten: ${player}#FF6464 heeft de server verlaten."
 
 #: resources/[gameplay]/joinquit/joinquit_server.lua:331
 msgid "Quit: ${player}#FF6464 ${quitReason}"
-msgstr ""
+msgstr "Verlaten: ${player}#FF6464 ${quitReason}"
