@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-04 16:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
+
+#: resources/[race]/race_toptimes/tops.lua:304
+msgid "A new personal time on this map:"
+msgstr ""
+
+#: resources/[race]/race_toptimes/tops.lua:307
+msgid "Improved your personal time on this map:"
+msgstr ""
+
+#: resources/[race]/race_toptimes/tops.lua:308
+msgid "From #${from} to #${to} (-${diff})"
+msgstr ""
+
+#: resources/[race]/race_toptimes/tops.lua:321
+msgid ""
+"You now have the monthly top on this map, if you hold it you will receive a "
+"reward at the end of the month"
+msgstr ""
+
+#: resources/[race]/race_toptimes/tops.lua:332
+msgid "You need to login to your Green-Coins account in order to do toptimes!"
+msgstr ""
+
+#: resources/[race]/race_toptimes/tops.lua:466
+msgid "You had ${amount} monthly toptime(s) in ${month} and got ${reward} GC"
+msgstr ""
+
+#: resources/[race]/race_toptimes/tops.lua:480
+msgid ""
+"You had the most monthly toptimes in ${months} and recieved ${reward} GC"
+msgstr ""
+
+#: resources/[race]/race_toptimes/tops.lua:491
+msgid "${player}#00FF00 earned ${reward} Green-Coins for the new top 1"
+msgstr ""
