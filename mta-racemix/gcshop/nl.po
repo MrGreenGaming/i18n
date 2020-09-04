@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-10 11:05+0200\n"
-"PO-Revision-Date: 2020-09-04 12:56+0000\n"
+"PO-Revision-Date: 2020-09-04 14:30+0000\n"
 "Last-Translator: Weblate Admin <translate@mrgreengaming.com>\n"
 "Language-Team: Dutch <https://translate.mrgreengaming.com/projects/"
 "mta-racemix/gcshop/nl/>\n"
@@ -762,67 +762,73 @@ msgstr "Voertuig \"${model}\" heeft een nieuwe kleur: ${color}"
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:323
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:374
 msgid "Vehicle \"${model}\" has a new color scheme: ${color}"
-msgstr ""
+msgstr "Voertuig \"${model}\" heeft een nieuw kleurenschema: ${color}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:347
 msgid "Wrong input, up to four RGB colors are accepted"
-msgstr ""
+msgstr "Verkeerde invoer, tot vier RGB-kleuren worden geaccepteerd"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:363
 msgid "Vehicle \"${vehicle}\": colors removed"
-msgstr ""
+msgstr "Voertuig \"${vehicle}\": kleuren verwijderd"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:376
 msgid "All your vehicles have a new color scheme: ${color}"
-msgstr ""
+msgstr "Al jouw voertuigen hebben een nieuw kleurenschema: ${color}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:399
 msgid "Vehicle \"${model}\": headlight colors removed"
-msgstr ""
+msgstr "Voertuig \"${model}\": koplamp kleuren verwijderd"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:406
 msgid "Wrong input, need a rgb color (ex. \"155 155 0\")"
-msgstr ""
+msgstr "Verkeerde invoer, heb een rgb-kleur nodig (bijv. \"155 155 0\")"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:412
 msgid "Vehicle \"${model}\" has new headlights: ${color}"
-msgstr ""
+msgstr "Voertuig \"${model}\" heeft nieuwe koplampen: ${color}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:414
 msgid "All your vehicles have new headlights: ${color}"
-msgstr ""
+msgstr "Al jouw voertuigen hebben nieuwe koplampen: ${color}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:426
 msgid "This vehicle doesn't support neon lights"
-msgstr ""
+msgstr "Dit voertuig ondersteunt geen neonlichten"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:428
 msgid "Wrong input, need a valid color (green, red, yellow, aqua, orange)"
 msgstr ""
+"Verkeerde invoer, heeft een geldige kleur nodig (groen, rood, geel, aqua, "
+"oranje)"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:432
 msgid "Removed neon lights from ${vehicle}"
-msgstr ""
+msgstr "Neonlichten verwijderd van ${vehicle}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:435
 msgid "Vehicle \"${model}\" has new neon lights: ${color}"
-msgstr ""
+msgstr "Voertuig \"${model}\" heeft nieuwe neonlichten: ${color}"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:482
 msgid "This map has its own custom upgrades, modshop upgrades are disabled"
 msgstr ""
+"Deze map heeft zijn eigen aangepaste upgrades, modshop upgrades zijn "
+"uitgeschakeld"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:762
 msgid "Not allowed to preview vehicles now!"
 msgstr ""
+"Het is momenteel niet toegestaan om een voorbeeldweergave van een voertuig "
+"te bekijken!"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:792
 msgid "Modding ${model} (${id})"
-msgstr ""
+msgstr "Momenteel aan het modden: ${model} (${id})"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_s.lua:793
 msgid "Press enter to go back to racing!"
-msgstr ""
+msgstr "Druk op enter om terug te gaan naar de race!"
 
 #: resources/[gameplay]/gcshop/modshop/modshop_c.lua:17
 msgid "You should register and log in to buy vehicles and upgrade them"
@@ -1131,27 +1137,27 @@ msgstr "Maximaal aantal vergrendelde namen bereikt (${max})"
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:55
 msgid "Failed to lock name: ${nickname}."
-msgstr ""
+msgstr "Mislukt om naam te vergrendelen: ${nickname}."
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:57
 msgid ""
 "${nickname} has succesfully been added to your locked names and is now "
 "protected."
 msgstr ""
+"${nickname} is succesvol toegevoegd aan jouw vergrendelde namen en is nu "
+"beschermd."
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:66
 msgid "${nickname} has succesfully been removed from your locked names."
-msgstr ""
+msgstr "${nickname} is met succes verwijderd van jouw vergrendelde namen."
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:69
 msgid "Failed to unlock name: ${nickname}."
-msgstr ""
+msgstr "Mislukt om de naam te ontgrendelen: ${nickname}."
 
 #: resources/[gameplay]/gcshop/lockednicks/lockednicks.lua:154
-#, fuzzy
-#| msgid "Please select a name before removing it"
 msgid "Please log in before buying this perk"
-msgstr "Selecteer een naam voordat je deze verwijdert"
+msgstr "Log in voordat je deze perk koopt"
 
 #: resources/[gameplay]/gcshop/teams/teams_c.lua:125
 msgctxt "GCshop Teams Tab"
@@ -1295,44 +1301,47 @@ msgid ""
 "You were in a team less than ${days} days ago. Wait before creating another "
 "team"
 msgstr ""
+"Je zat minder dan ${days} dagen geleden in een team. Wacht voordat je een "
+"nieuwe team opricht"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:59
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:104
 msgid "Not a valid team name"
-msgstr ""
+msgstr "Geen geldige teamnaam"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:62
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:107
 msgid "Not a valid team tag"
-msgstr ""
+msgstr "Geen geldig team tag"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:65
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:110
 msgid "Not a valid team color"
-msgstr ""
+msgstr "Geen geldige teamkleur"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:73
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:118
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:167
 msgid "Team name contains illegal characters!"
-msgstr ""
+msgstr "De naam van het team bevat illegale karakters!"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:127
 msgid "Team \"${name}\" (${tag}) bought."
-msgstr ""
+msgstr "Team \"${name}\" (${tag}) gekocht."
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:147
 msgid "Only the owner of the team can update it!"
-msgstr ""
+msgstr "Alleen de eigenaar van het team kan dit updaten!"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:308
 msgid "Your ${days} days team has expired, go to the gcshop to renew it"
 msgstr ""
+"Je ${days} dagen team is verlopen, ga naar de gcshop om het te vernieuwen"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:386
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:464
 msgid "Could not find ${name}, please type the full nickname"
-msgstr ""
+msgstr "Kon geen ${name} vinden, typ de volledige naam in"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:388
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:466
@@ -1341,76 +1350,80 @@ msgstr "${player} is niet ingelogd"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:391
 msgid "Only team owners can send invites!"
-msgstr ""
+msgstr "Alleen team eigenaren kunnen uitnodigingen versturen!"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:393
 msgid "${player} is already in your team"
-msgstr ""
+msgstr "${player} zit al in je team"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:395
 msgid ""
 "${player} is or has been in a team less than ${days} days ago and can't join "
 "other teams"
 msgstr ""
+"${player} is of was in een team minder dan ${days} dagen geleden en kan zich "
+"niet bij andere teams aansluiten"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:398
 msgid "You invited ${name}"
-msgstr ""
+msgstr "Je hebt ${name} uitgenodigd"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:399
 msgid "${player} has sent you an invite to join his team: ${team}"
 msgstr ""
+"${player} heeft je een uitnodiging gestuurd om bij zijn team te komen: "
+"${team}"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:400
 msgid "Type /accept to join his team"
-msgstr ""
+msgstr "Typ /accept om je aan te sluiten bij zijn team"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:409
 msgid "You are not invited to any teams"
-msgstr ""
+msgstr "Je bent niet uitgenodigd voor een team"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:416
 msgid "You accepted the invite and joined team: ${team}"
 msgstr ""
+"Je hebt de uitnodiging geaccepteerd en je hebt je bij het team ${team} "
+"gevoegd"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:418
 msgid "${player} accepted the invite"
-msgstr ""
+msgstr "${player} accepteerde de uitnodiging"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:432
 msgid "You are not in a team"
-msgstr ""
+msgstr "Je zit niet in een team"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:435
 msgid "You left your team"
-msgstr ""
+msgstr "Je hebt je team verlaten"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:447
 msgid "You can' rejoin your team"
-msgstr ""
+msgstr "Je kunt je niet weer bij je team heraansluiten"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:450
-#, fuzzy
-#| msgid "Rejoin team"
 msgid "You rejoined your team"
-msgstr "Heraansluiten bij team"
+msgstr "Je hebt je opnieuw bij je team aangesloten"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:469
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:492
 msgid "Only team owners can do this!"
-msgstr ""
+msgstr "Alleen teameigenaren kunnen dit doen!"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:471
 msgid "${player} is not in your team"
-msgstr ""
+msgstr "${player} zit niet in je team"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:477
 msgid "${owner} made ${newOwner} the new team owner"
-msgstr ""
+msgstr "${owner} maakte ${newOwner} de nieuwe team eigenaar"
 
 #: resources/[gameplay]/gcshop/teams/teams_s.lua:498
 msgid "${player} kicked ${kickedPlayer} from the team"
-msgstr ""
+msgstr "${player} heeft ${kickedPlayer} uit het team geschopt"
 
 #: resources/[gameplay]/gcshop/skin/skins_client.lua:55
 msgid "Selling failed! You are either not logged in or don't have that skin!"
@@ -1487,55 +1500,61 @@ msgstr "Jouw ID aankopen tot nu toe: %s"
 #: resources/[gameplay]/gcshop/skin/skins_server.lua:206
 #: resources/[gameplay]/gcshop/skin/skins_server.lua:281
 #: resources/[gameplay]/gcshop/horns/horns_s.lua:188
-#, fuzzy
-#| msgid "Or not logged in"
 msgid "You are not logged in"
-msgstr "Of niet ingelogd"
+msgstr "Je bent niet ingelogd"
 
 #: resources/[gameplay]/gcshop/skin/skins_server.lua:215
 #: resources/[gameplay]/gcshop/skin/skins_server.lua:233
 msgid "You do not own this skin."
-msgstr ""
+msgstr "Je bezit deze skin niet."
 
 #: resources/[gameplay]/gcshop/skin/skins_server.lua:222
 msgid "Success in changing skin."
-msgstr ""
+msgstr "Skin met success veranderd."
 
 #: resources/[gameplay]/gcshop/skin/skins_server.lua:229
 msgid "You already have this skin set"
-msgstr ""
+msgstr "Je hebt deze skin al ingesteld"
 
 #: resources/[gameplay]/gcshop/skin/skins_server.lua:293
 msgid "Success in removing skin. Changes will be seen nextmap"
 msgstr ""
+"Skin succesvol verwijderd. Veranderingen zullen worden gezien op de volgende "
+"map"
 
 #: resources/[gameplay]/gcshop/maps/maps_server.lua:144
 msgid "You do not have enough GCs to buy a nextmap. Current price: ${price}"
 msgstr ""
+"Je hebt niet genoeg GC's om een volgende map te kopen. Huidige prijs: "
+"${price}"
 
 #: resources/[gameplay]/gcshop/maps/maps_server.lua:147
 msgid ""
 "Error. You can only queue one map, you're not logged in or the map was "
 "deleted"
 msgstr ""
+"Fout. Je kunt slechts één map in de wachtrij zetten, je bent niet ingelogd "
+"of de map is verwijderd"
 
 #: resources/[gameplay]/gcshop/maps/maps_server.lua:176
 msgid ""
 "This map has recently been bought and is still on cooldown (${remain} "
 "remaining), please choose another map or wait."
 msgstr ""
+"Deze map is onlangs gekocht en is nog steeds op cooldown (${remain} "
+"resterend), kies een andere map of wacht."
 
 #: resources/[gameplay]/gcshop/maps/maps_server.lua:227
 msgid "Your next map current queue number: ${num}"
-msgstr ""
+msgstr "Jouw volgende map huidige wachtrij nummer: ${num}"
 
 #: resources/[gameplay]/gcshop/maps/maps_server.lua:456
 msgid "ERROR: Mr. Green maps top 100 already running."
-msgstr ""
+msgstr "ERROR: Mr. Green maps top 100 loop al momenteel."
 
 #: resources/[gameplay]/gcshop/maps/maps_server.lua:543
 msgid "All maps removed from map queue."
-msgstr ""
+msgstr "Alle maps verwijderd uit de wachtrij."
 
 #: resources/[gameplay]/gcshop/maps/maps_client.lua:69
 msgid "Maps-Center"
@@ -1789,20 +1808,20 @@ msgstr "Koop de claxon (${hornName}) voordat je hem gebruikt"
 
 #: resources/[gameplay]/gcshop/horns/horns_s.lua:124
 msgid "Something went wrong"
-msgstr ""
+msgstr "Er is iets misgegaan"
 
 #: resources/[gameplay]/gcshop/horns/horns_s.lua:166
 msgid "You already have unlimited horn usage."
-msgstr ""
+msgstr "Je hebt al een onbeperkt gebruik van de claxon."
 
 #: resources/[gameplay]/gcshop/horns/horns_s.lua:174
 msgid "You have bought unlimited horn usage for 5000 GC."
-msgstr ""
+msgstr "Je hebt voor 5000 GC onbeperkt claxon gekocht."
 
 #: resources/[gameplay]/gcshop/horns/horns_s.lua:179
 msgid "You do not have enough GreenCoins"
-msgstr ""
+msgstr "Je hebt niet genoeg GreenCoins"
 
 #: resources/[gameplay]/gcshop/horns/horns_s.lua:183
 msgid "You have no horns bought."
-msgstr ""
+msgstr "Je hebt geen claxons gekocht."
