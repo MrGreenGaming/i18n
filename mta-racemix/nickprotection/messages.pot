@@ -1,0 +1,20 @@
+#: resources/[gameplay]/nickprotection/nickProtect.lua:79
+msgid "Removed \"${nickname}\" nickprotection"
+msgstr ""
+
+#: resources/[gameplay]/nickprotection/nickProtect.lua:93
+msgid ""
+"Your nickname has been changed because your previous nickname has been "
+"locked."
+msgstr ""
+
+#: resources/[gameplay]/nickprotection/nickProtect.lua:157
+#: resources/[gameplay]/nickprotection/nickProtect.lua:169
+msgid ""
+"This nick is protected. If it's your name, please log into GCs or use "
+"another name."
+msgstr ""
+
+#: resources/[gameplay]/nickprotection/nickProtect.lua:222
+msgid "Please wait some time before changing your nick again."
+msgstr ""
