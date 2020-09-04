@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-04 17:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
+
+#: resources/[gameplay]/gus/gus_s.lua:40
+msgid ""
+"You have been automatically logged in to #FFFFFF${user}'s#00FF00 account!"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:41
+msgid "To disable AutoLogin, use /autologin!"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:43
+msgid "/autologin: wrong login/password"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:73
+msgctxt "player state / afk"
+msgid "away"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:105
+msgid "No admins online at the moment."
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:115
+msgid "Online admins: ${list}"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:119
+msgid "No moderators online at the moment."
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:129
+msgid "Online moderators: ${list}"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:133
+msgid "Online admin applicants: ${list}"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:173
+msgid "'${map}' has been created by '${author}'"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:179
+msgid "Upload your maps at: ${url}"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:187
+msgid ""
+"Join our Discord! If you need admin support, join the server and ask for an "
+"admin"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:188
+msgid "Discord invite: ${url}"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:196
+msgid "Use /msg [nick] [text]"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:208
+msgid "${player}#FFD700 is laughing out loud."
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:214
+msgid "No player found"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:218
+msgid "${player1}#FFD700 is laughing out loud at ${player2}"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:243
+msgid ""
+"If this map has a song, it has been downloaded into your computer. You can "
+"find it in:"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:253
+msgid "The correct command is /gclogin, do not misspell it"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:325
+msgid "Currently playing round:"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:345
+msgid "/me messages are disabled in this server"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_s.lua:448
+#: resources/[gameplay]/gus/gus_s.lua:474
+msgid ""
+"${player} #00ff00has made a streak! (#FFFFFFX${streak}#00ff00) (earned "
+"${reward}GC)"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_c.lua:14
+msgid "Free camera movement is now enabled"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_c.lua:21
+msgid "Free camera movement is now disabled"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_c.lua:97 resources/[gameplay]/gus/gus_c.lua:99
+msgid "Taskbar flashing on map change was #ff0000${action}"
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_c.lua:136
+msgid "${mapname} just started. (${nextmap})."
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_c.lua:228
+msgid "Daylight enabled. "
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_c.lua:228
+msgid "It will only be applied in allowed modes."
+msgstr ""
+
+#: resources/[gameplay]/gus/gus_c.lua:234
+msgid "Daylight disabled."
+msgstr ""
+
+#: resources/[gameplay]/gus/nicks.lua:11 resources/[gameplay]/gus/nicks.lua:32
+msgid "Please use an other nickname then \"Player\""
+msgstr ""
+
+#: resources/[gameplay]/gus/nicks.lua:13
+msgid "Your nickname was already in use, changed to random one"
+msgstr ""
+
+#: resources/[gameplay]/gus/nicks.lua:15 resources/[gameplay]/gus/nicks.lua:38
+msgid ""
+"Your nickname is using multiple colour codes, which causes bugs. Please "
+"change"
+msgstr ""
+
+#: resources/[gameplay]/gus/nicks.lua:17 resources/[gameplay]/gus/nicks.lua:22
+#: resources/[gameplay]/gus/nicks.lua:40
+msgid "Please use a nickname longer then 2 characters"
+msgstr ""
+
+#: resources/[gameplay]/gus/nicks.lua:34
+msgid "This nickname is already in use"
+msgstr ""
+
+#: resources/[gameplay]/gus/nicks.lua:36
+msgid "You can't change your nick while you are muted"
+msgstr ""
+
+#: resources/[gameplay]/gus/ktypestatus_cl.lua:91
+msgctxt "Toggled on/off"
+msgid "on"
+msgstr ""
+
+#: resources/[gameplay]/gus/ktypestatus_cl.lua:92
+msgctxt "Toggled on/off"
+msgid "off"
+msgstr ""
+
+#: resources/[gameplay]/gus/ktypestatus_cl.lua:99
+msgid "Chat icons are turned ${onOff}"
+msgstr ""
+
+#: resources/[gameplay]/gus/ktypestatus_cl.lua:108
+msgid "Chat icons are ${scale}% from normal size"
+msgstr ""
+
+#: resources/[gameplay]/gus/ktypestatus_cl.lua:115
+msgid "Chat icons are ${opacity}% visible"
+msgstr ""
+
+#: resources/[gameplay]/gus/admin.lua:161
+msgid "${killer} has killed ${victim}. Reason: ${reason}"
+msgstr ""
+
+#: resources/[gameplay]/gus/admin.lua:212
+msgid "${victim} has been banned by ${admin}"
+msgstr ""
+
+#: resources/[gameplay]/gus/admin.lua:230
+msgid "Chatbox has been disabled by ${admin}!"
+msgstr ""
+
+#: resources/[gameplay]/gus/admin.lua:242
+msgid "Chatbox has been cleared by ${admin}!"
+msgstr ""
+
+#: resources/[gameplay]/gus/admin.lua:254
+msgid "Chatbox enabled again by ${admin}!"
+msgstr ""
+
+#: resources/[gameplay]/gus/admin.lua:264
+msgid "Chatbox is currently disabled."
+msgstr ""
+
+#: resources/[gameplay]/gus/admin.lua:278
+msgid "Chatbox is enabled again!"
+msgstr ""
+
+#: resources/[gameplay]/gus/blocker.lua:33
+msgid "${admin} has marked ${victim} as a blocker."
+msgstr ""
+
+#: resources/[gameplay]/gus/blocker.lua:49
+#: resources/[gameplay]/gus/blocker.lua:76
+msgid "${admin} has unmarked ${victim} as a blocker."
+msgstr ""
+
+#: resources/[gameplay]/gus/blocker.lua:145
+msgid "No blockers online at the moment!"
+msgstr ""
+
+#: resources/[gameplay]/gus/blocker.lua:181
+msgid ""
+"You have been marked as a blocker by ${admin}, you will be unmarked in "
+"${time}"
+msgstr ""
+
+#: resources/[gameplay]/gus/blocker.lua:222
+msgid "You are no longer marked as a blocker."
+msgstr ""
+
+#: resources/[gameplay]/gus/blocker_c.lua:1
+#: resources/[gameplay]/gus/blocker_c.lua:2
+msgid "You are marked as a blocker for: ${time}"
+msgstr ""
