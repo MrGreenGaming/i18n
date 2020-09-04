@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-04 14:57+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
+
+#: resources/[gameplay]/playerrecord/playerrecord.lua:12
+msgid ""
+"The current player record is ${peak} players and it's going to reset in "
+"${hours} days and ${minutes} minutes"
+msgstr ""
+
+#: resources/[gameplay]/playerrecord/playerrecord.lua:16
+msgid ""
+"The current player record is ${peak} players and it's going to reset in "
+"${days} days and ${hours} hours"
+msgstr ""
+
+#: resources/[gameplay]/playerrecord/playerrecord.lua:29
+msgid ""
+"We got a new player record of ${playerAmount} players! Giving everyone "
+"${gcAmount} GCs!"
+msgstr ""
+
+#: resources/[gameplay]/playerrecord/playerrecord.lua:96
+msgid ""
+"${days} days have passed since the last player record! Resetting the record "
+"and giving everyone ${reward} GCs!"
+msgstr ""
