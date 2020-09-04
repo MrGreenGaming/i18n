@@ -1,0 +1,603 @@
+#: resources/[gameplay]/helpmenu/helpmenu.lua:222
+msgctxt "menu item"
+msgid "About"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:223
+msgid "Welcome to the Mr. Green MTA servers!"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:224
+msgid "Mr Green Gaming Staff"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:225
+msgctxt "player status"
+msgid "offline"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:226
+msgctxt "player status"
+msgid "online"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:227
+msgid "Commands & Binds"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:228
+#: resources/[gameplay]/helpmenu/helpmenu.lua:482
+msgid ""
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:229
+#: resources/[gameplay]/helpmenu/helpmenu.lua:291
+msgid "Changelog"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:230
+msgid "Rules & Frequently Asked Questions"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:231
+msgctxt "action"
+msgid "Close"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:232
+msgid "Switch Server"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:233
+msgid "Settings"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:236
+msgid "Rules"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:240
+msgid "Do not cheat, hack or exploit to get any advantage"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:241
+msgid "Do not insult or provoke any players or admins"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:242
+msgid "Do not block other players or camp in DD and SH"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:243
+msgid "Do not flood or spam the main chat"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:244
+msgid "Do not advertise other servers"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:245
+msgid "Do not TeamKill in CTF"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:246
+msgid "Do not deliberately lock other people's name"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:247
+msgid "Breaking any of these rules may result in ban."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:251
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:254
+msgid "What are GreenCoins?"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:255
+msgid ""
+"GreenCoins are our community currency, you can use them on all of our "
+"servers."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:256
+msgid "How do win GreenCoins?"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:257
+msgid ""
+"You win GreenCoins by simply playing on our servers you can also donate to "
+"get GreenCoins in return."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:258
+msgid "What can I buy on this server with GreenCoins?"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:259
+msgid ""
+"You can buy Perks, Maps, Custom Horns, Skins and you can modify your vehicle "
+"in our GreenCoins Shop"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:260
+msgid "If you have any other questions, refer them to our staff"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:291
+msgid "Something updated, press F9 -> ${changelog} to see what's new"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:385
+msgid "Keys"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:389
+msgid "Sidebar options."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:393
+msgid "Redirect to the other server."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:397
+msgid "Opens private messaging."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:401
+msgid "Shows your achievements."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:405
+msgid "View current map toptimes/Map info."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:409
+msgid "Opens the GreenCoins Shop."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:413
+msgid "Opens the VIP window."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:417
+msgid "Opens your console."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:421
+msgid "Opens the help menu."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:425
+msgid "Show your statistics."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:429
+msgid "Opens San Andreas map."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:433
+msgid "Take a screen shot / toggle snow."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:437
+msgid "Commit suicide."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:441
+msgid "Makes your bike jump if held a few seconds and then released."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:445
+msgid "Displays the scoreboard."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:449
+msgid "Write to the chatbox."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:453
+msgid "Write to the team chat."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:457
+msgid "Write to global chat."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:461
+msgid "Push to talk for voice chat."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:465
+msgid "Toggle vehicle headlights"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:469
+msgid "Toggle spectator mode."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:473
+msgid "Each of these do different animations when your bike is in the air."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:478
+msgid "Commands"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:485
+#: resources/[gameplay]/helpmenu/helpmenu.lua:561
+#: resources/[gameplay]/helpmenu/helpmenu.lua:617
+#: resources/[gameplay]/helpmenu/helpmenu.lua:649
+#: resources/[gameplay]/helpmenu/helpmenu.lua:665
+#: resources/[gameplay]/helpmenu/helpmenu.lua:685
+#: resources/[gameplay]/helpmenu/helpmenu.lua:689
+#: resources/[gameplay]/helpmenu/helpmenu.lua:756
+#: resources/[gameplay]/helpmenu/helpmenu.lua:764
+#: resources/[gameplay]/helpmenu/helpmenu.lua:768
+#: resources/[gameplay]/helpmenu/helpmenu.lua:772
+#: resources/[gameplay]/helpmenu/helpmenu.lua:776
+msgid "name"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:485
+#: resources/[gameplay]/helpmenu/helpmenu.lua:665
+msgid "password"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:485
+msgid "/autologin ["
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:486
+msgid "Enable or disable auto-login."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:490
+msgid "Show admins and mods currently on the servers."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:494
+msgid "Racing assist shows line on road where your ghost was recorded."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:498
+msgid "Turn off racing assist."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:502
+msgid "Set yourself as \"Away From Keyboard\" state"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:506
+msgid "Show current map author."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:509
+#: resources/[gameplay]/helpmenu/helpmenu.lua:513
+msgid "key"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:509
+msgid "command"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:509
+msgid "arguments"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:509
+#: resources/[gameplay]/helpmenu/helpmenu.lua:513
+msgid "/bind ["
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:510
+msgid "Binds a command to a key of your choice."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:513
+msgid "text"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:518
+msgid "Turn nick over car on or off."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:522
+msgid "Show ranking board with checkpoint delays."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:525
+#: resources/[gameplay]/helpmenu/helpmenu.lua:621
+msgid "map"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:526
+msgid "See if a map is on the server."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:529
+#: resources/[gameplay]/helpmenu/helpmenu.lua:577
+#: resources/[gameplay]/helpmenu/helpmenu.lua:589
+#: resources/[gameplay]/helpmenu/helpmenu.lua:609
+#: resources/[gameplay]/helpmenu/helpmenu.lua:730
+#: resources/[gameplay]/helpmenu/helpmenu.lua:747
+msgid "player"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:529
+msgid "/country ["
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:530
+msgid "Show the country for a player."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:534
+msgid "Show or hide the checkpoint splittime indicator."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:538
+msgid "Move the split indicator (range 0 to 1)."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:542
+msgid "Current record of concurrent players on the server."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:545
+msgid "number"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:550
+msgid "Go into freecam mode (currently for admins only)."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:554
+msgid "List of modes and maps amount on the server (in console = F8)."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:558
+msgid "Toggle GreenCoins counter."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:561
+msgid "pass"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:566
+msgid "Log out of your GreenCoins account."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:570
+msgid "Open greencoins shop."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:574
+msgid "Get current vehicle name and model."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:578
+msgid "Greencoins stats for you or another player displayed in the console."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:582
+msgid "Hide floating messages."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:586
+msgid "Hide the current/next map window."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:590
+msgid "Ignore a disturbing player."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:594
+msgid "Display the top time earners."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:598
+msgid "Like or dislike the current map."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:602
+msgid "Lock or unlock your nickname."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:606
+msgid "Laugh."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:610
+msgid "Laugh at player."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:614
+msgid "Show map upload window,,"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:618
+msgid "Change team owner."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:622
+msgid "Show map info window."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:626
+msgid "Enable or disable flashing icon on taskbar when next map starts."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:630
+msgid "List of the maps on the server (in console = F8)."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:634
+msgid "Disable private messages."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:638
+msgid "Change the mode of the speedo."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:642
+msgid "Show new changes on the server."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:646
+msgid "Check what the next map is."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:650
+msgid "Set player name."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:654
+msgid "Switch to a different camera."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:658
+msgid "Show players on other server."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:662
+msgid "Show recent forum topics."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:666
+msgid "Register an account for mods and admins."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:670
+msgid "Report a problem to admins."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:673
+msgid "size"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:674
+msgid "Resize typing icon."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:678
+msgid "Show current round being played."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:682
+msgid "Display the server rules."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:686
+msgid "Go into spectator mode or spectate a specific player."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:690
+msgid "Displays last seen date and time of a player."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:694
+msgid "Show nicknames associated with serial."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:697
+msgid "opacity"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:698
+msgid "Set opacity of typing icons."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:702
+msgid "Show the settings menu."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:706
+msgid "Hide or show chat."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:711
+msgid "Toggle the traffic sensor arrows."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:715
+msgid "Show the local directory the map song."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:719
+msgid "Mute all sounds."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:723
+msgid "Unmute all sounds."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:727
+msgid "Switch to a cool HUD."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:731
+msgid "Show race/mix stats for player."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:735
+msgid "Display time of the server."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:740
+msgid "Toggle typing icon."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:744
+msgid "Show map upload information."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:748
+msgid "Show a player's packet loss statistics."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:753
+msgid "Moderators"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:756
+msgid "hours"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:757
+msgid ""
+"Marks a player as blocker for set amount of hours. If no hours are supplied, "
+"it will default to 1 hour."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:761
+msgid "Shows an overview of all players in blocker mode"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:764
+#: resources/[gameplay]/helpmenu/helpmenu.lua:768
+#: resources/[gameplay]/helpmenu/helpmenu.lua:776
+msgid "reason"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:765
+msgid "Blow up another player who camps or is bugged in Shooter or DD mode."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:768
+msgid "seconds"
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:769
+msgid "Mute a player for x seconds."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:773
+msgid "Unmutes a player."
+msgstr ""
+
+#: resources/[gameplay]/helpmenu/helpmenu.lua:777
+msgid "Starts a votekick against a player."
+msgstr ""
