@@ -3,46 +3,54 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-04 16:31+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-09-04 14:43+0000\n"
+"Last-Translator: Weblate Admin <translate@mrgreengaming.com>\n"
+"Language-Team: Dutch <https://translate.mrgreengaming.com/projects/"
+"mta-racemix/race_toptimes/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.0.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.2\n"
 
 #: resources/[race]/race_toptimes/tops.lua:304
 msgid "A new personal time on this map:"
-msgstr ""
+msgstr "Een nieuwe persoonlijke tijd op deze map:"
 
 #: resources/[race]/race_toptimes/tops.lua:307
 msgid "Improved your personal time on this map:"
-msgstr ""
+msgstr "Persoonlijke tijd verbeterd op deze map:"
 
 #: resources/[race]/race_toptimes/tops.lua:308
 msgid "From #${from} to #${to} (-${diff})"
-msgstr ""
+msgstr "Van #${from} naar #${to} (-${diff})"
 
 #: resources/[race]/race_toptimes/tops.lua:321
 msgid ""
 "You now have the monthly top on this map, if you hold it you will receive a "
 "reward at the end of the month"
 msgstr ""
+"Je hebt nu de maandelijkse top op deze map, als je deze vasthoudt ontvang je "
+"een beloning aan het eind van de maand"
 
 #: resources/[race]/race_toptimes/tops.lua:332
 msgid "You need to login to your Green-Coins account in order to do toptimes!"
 msgstr ""
+"Je moet inloggen op je Green-Coins account om toptijden te kunnen zetten!"
 
 #: resources/[race]/race_toptimes/tops.lua:466
 msgid "You had ${amount} monthly toptime(s) in ${month} and got ${reward} GC"
 msgstr ""
+"Je had ${amount} maandelijkse toptijden gezet in ${month} en krijgt ${reward}"
+" GC"
 
 #: resources/[race]/race_toptimes/tops.lua:480
 msgid ""
 "You had the most monthly toptimes in ${months} and recieved ${reward} GC"
 msgstr ""
+"Je had de meeste maandelijkse toptijden in ${months} en ontvangt ${reward} GC"
 
 #: resources/[race]/race_toptimes/tops.lua:491
 msgid "${player}#00FF00 earned ${reward} Green-Coins for the new top 1"
-msgstr ""
+msgstr "${player}#00FF00 ontvangt ${reward} Green-Coins voor de nieuwe top 1"
