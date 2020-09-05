@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-05 03:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:401
+msgid "Ignored Players"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:402
+msgid "Player Name"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:403
+msgid ""
+"You can manage your ignored playerlist, ignore players with the command "
+"${command}"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:404
+msgid "Remove Player"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:405
+#: resources/[gameplay]/mrgreen-settings/gui.lua:487
+msgid "Close"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:406
+#: resources/[gameplay]/mrgreen-settings/gui.lua:422
+msgid "Visual Settings"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:407
+msgid ""
+"Changing these options can reduce your FPS or even crash your game. You "
+"should only enable these options if your computer can handle powerful "
+"graphics."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:408
+msgid "Set Draw Distance"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:409
+#: resources/[gameplay]/mrgreen-settings/gui.lua:411
+msgid ""
+"This number represents how far out you can look into the game world. "
+"Increasing it may cause low FPS!"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:410
+msgid "Set LOD range"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:410
+msgid "0 to disable"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:412
+msgid "Enable Bloom"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:413
+msgid "Set client FPS Limit"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:414
+msgid "Set client FPS Limit for boats"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:415
+msgid "Boats may slide or swim badly with FPS >50!"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:416
+msgid "Enable Contrast HDR"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:417
+msgid "This applies a 'High Dynamic Range' contrast effect."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:418
+msgid "Enable Radar Shader"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:419
+msgid "This shader only works with the old radar."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:420
+msgid "Enable Water Shader"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:421
+msgid "Enable Chrome Wheels"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:423
+msgid "Enable ENB Palette"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:424
+msgid "This enables an ENB effect."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:425
+msgid "Enable BT Wheels"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:426
+msgid ""
+"This enables Bob_Taylor's wheels mods (and will disable any other wheel "
+"mods)."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:427
+msgid "Enable Ghost Recording"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:428
+msgid ""
+"This enables the recording of your cars, so that it can be viewed later on."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:429
+msgid "Enable Local Ghost"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:430
+msgid "This makes a ghost car appear, driving your best time on the map."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:431
+msgid "Enable Best Ghost"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:432
+msgid "This makes a ghost car appear, driving the top 1 time on the map."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:433
+msgid "Enable Depth of Field"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:434
+msgid "Makes MTA have depth. (blurs far away objects)"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:435
+msgid "Enable Radial Blur"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:436
+msgid "Makes the screen blurry when moving."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:437
+msgid "Enable Sky Box"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:438
+msgid "Enable Car Paint Shader"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:439
+msgid "Enable Nitro Color"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:440
+msgid "Set Nitro Color"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:441
+msgid "Enable custom horn icons"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:442
+msgid "Toggle custom horn icons"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:443
+#: resources/[gameplay]/mrgreen-settings/gui.lua:455
+msgid "Sound Settings"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:444
+msgid "Map Music Volume:"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:445
+msgid ""
+"Sets the volume of the music that mapmakers put in their maps. Beware: "
+"toggling the mapmusic off and on will reset it's volume on most maps."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:446
+msgid "Custom Horns Volume:"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:447
+msgid "Sets the volume of custom horns from the GC shop."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:448
+msgid "Announcer Volume:"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:449
+msgid "Sets the volume of the announcer (e.g. the 'Time's up, pal' voice.)"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:450
+msgid "Music Player Volume:"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:451
+msgid "Sets the volume of the music player."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:452
+msgid ""
+"In this tab you can set the individual volume of sounds. For GTA SA sounds, "
+"please go into the MTA settings (esc > Settings >Sound Settings)"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:453
+msgid "Miscellaneous Volume:"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:454
+msgid ""
+"Sets the volume of every other custom sound that does not have it's own "
+"slider."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:456
+msgid ""
+"With /soundsoff you can quickly mute all sounds. It won't be saved on "
+"reconnect, so its always better to set your volumes in this GUI instead."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:457
+msgid "UI Settings"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:458
+msgid ""
+"In this tab you can toggle UI settings on or off. Settings will be saved, so "
+"you won't have to set it again."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:459
+msgid "User Interface Settings"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:460
+#: resources/[gameplay]/mrgreen-settings/gui.lua:461
+msgid "Enable Rank Board"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:462
+msgid "Settings"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:463
+#: resources/[gameplay]/mrgreen-settings/gui.lua:464
+msgid "Enable Traffic Sensor"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:465
+msgid ""
+"The Traffic Sensor are the arrows that you see when other players are near "
+"you."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:466
+#: resources/[gameplay]/mrgreen-settings/gui.lua:467
+msgid "Enable GreenCoins Counter"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:468
+#: resources/[gameplay]/mrgreen-settings/gui.lua:469
+msgid "Enable Next Map Window"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:470
+msgid "Enable Checkpoint Delay"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:471
+msgid "Enable CheckPoint Delay"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:472
+msgid ""
+"Checkpoint Delay gives you information on your time, when reaching a "
+"checkpoint."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:473
+#: resources/[gameplay]/mrgreen-settings/gui.lua:474
+msgid "Enable Chat Bubbles"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:475
+msgid "A chat bubble is the image that you see when a player is typing."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:476
+#: resources/[gameplay]/mrgreen-settings/gui.lua:477
+msgid "Enable Floating Messages"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:478
+msgid ""
+"Floating messages are the messages that float on the screen, giving you "
+"information. If disabled, the information will be in the chatbox instead."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:479
+msgid "Go to Progress Bar Settings"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:480
+msgid ""
+"Here you can find all settings related to the progress bar, including an "
+"option to disable it."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:481
+msgid "Speed-o-meter Mode"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:482
+msgid "HUD Mode"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:483
+msgid "Enable New Radar"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:484
+msgid "Enable FPS Counter"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:485
+msgid "Enable Countdown Timer"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:486
+msgid "Enable Custom NameTags"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:488
+msgid "Settings for the Mr. Green Servers."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:489
+msgid "Social"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:490
+msgid "Social Settings"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:491
+msgid ""
+"In this tab you can set all your social settings. Settings will be saved so "
+"you do not have to set it again."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:492
+msgid "Block Private Messages"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:493
+msgid "If you enable this, you will not get any private messages (f3)"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:494
+msgid "Block Chatbox Messages"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:495
+msgid ""
+"If you enable this, you will not get any chatbox messages, except for admin "
+"messages."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:496
+msgid "Manage Ignored Players"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:497
+msgid ""
+"Click to see all the players you ignored. Ignore people with the command /"
+"ignore [playername], you can not ignore an admin."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:498
+msgid "Gameplay Setting"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:499
+msgid "Gameplay Settings"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:500
+msgid ""
+"In this tab you can set all your gameplay settings. Settings will be saved "
+"so you do not have to set it again."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/gui.lua:501
+msgid "NOS Mode"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/visual.lua:278
+#: resources/[gameplay]/mrgreen-settings/visual.lua:294
+#: resources/[gameplay]/mrgreen-settings/visual.lua:304
+#: resources/[gameplay]/mrgreen-settings/visual.lua:314
+msgid "Insert a number before clicking ok."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/visual.lua:279
+msgid "LOD range must be inbetween 1 and 300. Set to 0 to disable."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/visual.lua:281
+msgid "LOD range disabled"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/visual.lua:283
+msgid "LOD range set to ${number}"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/visual.lua:295
+msgid "Draw Distance must be between ${min} and ${max}."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/visual.lua:299
+msgid "Draw Distance set to ${number}"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/visual.lua:305
+#: resources/[gameplay]/mrgreen-settings/visual.lua:315
+msgid "FPS limit must be inbetween ${min} and ${max}."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/visual.lua:422
+msgid "Nitro color is now: ${color}"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/visual.lua:525
+msgid "Settings Saved."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/sound.lua:385
+msgid ""
+"Custom Sounds disabled. (You can set individual sound volumes in the /"
+"settings menu, this command is not saved on reconnect.)"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/sound.lua:410
+msgid ""
+"Custom Sounds enabled again. (You can set individual sound volumes in the /"
+"settings menu, this command is not saved on reconnect.)"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/social.lua:31
+msgid "Chatbox messages turned off!"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/social.lua:42
+msgid "Chatbox Messages turned on!"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/social.lua:86
+msgid "Removed ${player} from the ignore list."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/social.lua:88
+msgid "Please select a player before removing it from the list."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/social.lua:179
+msgid ""
+"Chatbox Messages Disabled (you can still see admin messages), go to the /"
+"settings menu to enable it again."
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/social.lua:249
+msgid "You can't ignore yourself!"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/social.lua:251
+msgid "Could not find '${name}'"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/social.lua:254
+msgid "/ignore: ignoring player ${name}"
+msgstr ""
+
+#: resources/[gameplay]/mrgreen-settings/social.lua:264
+msgid "You can't ignore an admin!"
+msgstr ""
