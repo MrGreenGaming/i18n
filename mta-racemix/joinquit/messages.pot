@@ -42,7 +42,7 @@ msgid "Joined: ${player} #FF6464${country} joined the server ${fromRedirect}"
 msgstr ""
 
 #: resources/[gameplay]/joinquit/joinquit_server.lua:319
-msgid "Quit: ${player}#FF6464 has been ${kickBan} %{reason}"
+msgid "Quit: ${player}#FF6464 has been ${kickBan} ${reason}"
 msgstr ""
 
 #: resources/[gameplay]/joinquit/joinquit_server.lua:325
