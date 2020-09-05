@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-05 03:15+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.0.0\n"
+
+#: resources/[gameplay]/nickprotection/nickProtect.lua:79
+msgid "Removed \"${nickname}\" nickprotection"
+msgstr ""
+
+#: resources/[gameplay]/nickprotection/nickProtect.lua:93
+msgid ""
+"Your nickname has been changed because your previous nickname has been "
+"locked."
+msgstr ""
+
+#: resources/[gameplay]/nickprotection/nickProtect.lua:157
+#: resources/[gameplay]/nickprotection/nickProtect.lua:169
+msgid ""
+"This nick is protected. If it's your name, please log into GCs or use "
+"another name."
+msgstr ""
+
+#: resources/[gameplay]/nickprotection/nickProtect.lua:222
+msgid "Please wait some time before changing your nick again."
+msgstr ""
